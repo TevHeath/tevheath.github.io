@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Tevin Heath",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a student of Computer Engineering at the University of Guelph. My professional interests focuses on the software and hardware design of renewable energy tools and equipment for mechanic and electricians. I also have a strong interest in assisting the labour force in the transition and support tools for the emerging and ever growing field of renewable innovative solutions such as solar electricity, green-fuel technologies, and renewable methods of transportation.\nPrior to the attending the University of Guelph, I completed my Honours Bachelor of Science (B.Sc) degree from McMaster University in Mathematics and Statistics.\nAt the University of Guelph, I mentor and assist in group projects and volunteer in coding, design, and engineering competition, while balancing my intensive coursework and engineering skillet on a daily basis.\nFeel free to book an appointment or send me an email, I am always open to chat, mentor, and share towards the many challenges the future has within the field of renewable hardware technologies and software’s.\nDownload my curriculum vitae (Here)"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,110 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "TBD\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\nComing Soon"
+  },
+  {
+    "objectID": "projects.html#electrical-engineering",
+    "href": "projects.html#electrical-engineering",
+    "title": "Projects",
+    "section": "",
+    "text": "TBD\n\n\n\n\n\nComing Soon"
+  },
+  {
+    "objectID": "projects.html#software-engineering",
+    "href": "projects.html#software-engineering",
+    "title": "Projects",
+    "section": "Software Engineering",
+    "text": "Software Engineering\n\nCurrent Projects\n\nTBD\n\n\n\nPast Projects\n\nComing Soon"
+  },
+  {
+    "objectID": "projects.html#hardware-engineering",
+    "href": "projects.html#hardware-engineering",
+    "title": "Projects",
+    "section": "Hardware Engineering",
+    "text": "Hardware Engineering\n\nCurrent Projects\n\nTBD\n\n\n\nPast Projects\n\nComing Soon"
+  },
+  {
+    "objectID": "biography.html",
+    "href": "biography.html",
+    "title": "Biography",
+    "section": "",
+    "text": "Tevin is a Computer Engineering Student!"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Biography",
+    "section": "",
+    "text": "Tevin is a Computer Engineering Student!"
+  },
+  {
+    "objectID": "projects.html#engineering-projects",
+    "href": "projects.html#engineering-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "TBD\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\nComing Soon"
+  },
+  {
+    "objectID": "projects/all-projects.html",
+    "href": "projects/all-projects.html",
+    "title": "Projects V2",
+    "section": "",
+    "text": "My projects aims at…\nThrough this lens, my projects can be divided into four intersecting areas: (1) Electrical Engineering (2) model selection, (3) high-dimensional and nonparametric theory, and (4) applications related to these. My work explores and exploits the connections between these areas rather than approaching them separately—my contributions have been developed out of the pressing need to justify methodology as implemented in applications rather than in a vacuum devoid of empirical motivation. My research program seeks to generate statistical guarantees for the procedures that applied researchers use while also developing methodology for complicated, high-dimensional problems. Within this context, much of my work involves what is referred to as regularization—the process of mathematically balancing complex but meaningful scientific models with a preference for simple fundamental structures."
+  },
+  {
+    "objectID": "projects/all-projects.html#overview",
+    "href": "projects/all-projects.html#overview",
+    "title": "Projects V2",
+    "section": "",
+    "text": "My projects aims at…\nThrough this lens, my projects can be divided into four intersecting areas: (1) Electrical Engineering (2) model selection, (3) high-dimensional and nonparametric theory, and (4) applications related to these. My work explores and exploits the connections between these areas rather than approaching them separately—my contributions have been developed out of the pressing need to justify methodology as implemented in applications rather than in a vacuum devoid of empirical motivation. My research program seeks to generate statistical guarantees for the procedures that applied researchers use while also developing methodology for complicated, high-dimensional problems. Within this context, much of my work involves what is referred to as regularization—the process of mathematically balancing complex but meaningful scientific models with a preference for simple fundamental structures."
+  },
+  {
+    "objectID": "projects/all-projects.html#recent-projects-and-assignments",
+    "href": "projects/all-projects.html#recent-projects-and-assignments",
+    "title": "Projects V2",
+    "section": "Recent Projects and Assignments",
+    "text": "Recent Projects and Assignments\n\n  View all Projects"
+  },
+  {
+    "objectID": "projects/all-projects.html#slides-for-projects-presentation-talks",
+    "href": "projects/all-projects.html#slides-for-projects-presentation-talks",
+    "title": "Projects V2",
+    "section": "Slides for Projects Presentation & Talks",
+    "text": "Slides for Projects Presentation & Talks"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects V2",
+    "section": "",
+    "text": "My projects aims at…\nThrough this lens, my projects can be divided into four intersecting areas: (1) Electrical Engineering (2) model selection, (3) high-dimensional and nonparametric theory, and (4) applications related to these. My work explores and exploits the connections between these areas rather than approaching them separately—my contributions have been developed out of the pressing need to justify methodology as implemented in applications rather than in a vacuum devoid of empirical motivation. My research program seeks to generate statistical guarantees for the procedures that applied researchers use while also developing methodology for complicated, high-dimensional problems. Within this context, much of my work involves what is referred to as regularization—the process of mathematically balancing complex but meaningful scientific models with a preference for simple fundamental structures."
+  },
+  {
+    "objectID": "projects/index.html#overview",
+    "href": "projects/index.html#overview",
+    "title": "Projects V2",
+    "section": "",
+    "text": "My projects aims at…\nThrough this lens, my projects can be divided into four intersecting areas: (1) Electrical Engineering (2) model selection, (3) high-dimensional and nonparametric theory, and (4) applications related to these. My work explores and exploits the connections between these areas rather than approaching them separately—my contributions have been developed out of the pressing need to justify methodology as implemented in applications rather than in a vacuum devoid of empirical motivation. My research program seeks to generate statistical guarantees for the procedures that applied researchers use while also developing methodology for complicated, high-dimensional problems. Within this context, much of my work involves what is referred to as regularization—the process of mathematically balancing complex but meaningful scientific models with a preference for simple fundamental structures."
+  },
+  {
+    "objectID": "projects/index.html#recent-projects-and-assignments",
+    "href": "projects/index.html#recent-projects-and-assignments",
+    "title": "Projects V2",
+    "section": "Recent Projects and Assignments",
+    "text": "Recent Projects and Assignments\n\n  View all Projects"
+  },
+  {
+    "objectID": "projects/index.html#slides-for-projects-presentation-talks",
+    "href": "projects/index.html#slides-for-projects-presentation-talks",
+    "title": "Projects V2",
+    "section": "Slides for Projects Presentation & Talks",
+    "text": "Slides for Projects Presentation & Talks"
   }
 ]

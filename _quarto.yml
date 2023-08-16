@@ -5,11 +5,21 @@ project:
 website:
   title: "Tevin Heath"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    background: light
+    collapse: false
+    right:
+      - href: education.qmd
+        text: EDUCATION
+      - href: projects.qmd
+        text: PROJECTS
+        
+  page-footer:
+    border: false
+    right: "© 2023, Tevin Heath"
+    center: |
+      <a href="https://github.com/tevheath"><i class="bi bi-github"></i></a>
+      <a href="mailto:tevinheath.beng@gmail.com"><i class="bi bi-envelope"></i></a>
+      <a href="cv/docs/TevH_CV-1.pdf"><i class="ai ai-cv"></i></a>
 format:
   html:
     theme: cosmo
