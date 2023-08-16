@@ -8,7 +8,7 @@ website:
     background: light
     collapse: false
     right:
-      - href: education.qmd
+      - href: education/index_edu.qmd
         text: EDUCATION
       - href: projects/index.qmd
         text: PROJECTS
