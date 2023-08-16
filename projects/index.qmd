@@ -1,24 +1,49 @@
 ---
-title: "Projects V2"
+title: "Projects"
 ---
 
-## Overview
+## Engineering Projects
 
-My projects aims at... 
+### Software
 
-Through this lens, my projects can be divided into four intersecting areas: (1) Electrical Engineering (2) model selection, (3) high-dimensional and nonparametric theory, and (4) applications related to these. My work explores and exploits the connections between these areas rather than approaching them separately---my contributions have been developed out of the pressing need to justify methodology as implemented in applications rather than in a vacuum devoid of empirical motivation. My research program seeks to generate statistical guarantees for the procedures that applied researchers use while also developing methodology for complicated, high-dimensional problems. Within this context, much of my work involves what is referred to as regularization---the process of mathematically balancing complex but meaningful scientific models with a preference for simple fundamental structures.
+#### Current Projects
+
+- TBD 
+
+#### Past Projects
+
+- Coming Soon
+
+### Hardware
+
+#### Current Projects
+
+- TBD
+
+#### Past Projects
+
+- Coming Soon
+
+### Electrical
+
+#### Current Projects
+
+- TBD
+
+#### Past Projects
+
+- Coming Soon
+
+### Personal
+
+#### Current Projects
+
+- TBD
+
+#### Past Projects
+
+- Coming Soon
+
+### Other 
 
 
-## Recent Projects and Assignments
-
-<br>
-
-<a href="all-projects.qmd">
-<button type="button" class="btn btn-outline-warning">
-View all Projects
-</button>
-</a>
-
-
-
-## Slides for Projects Presentation & Talks
