@@ -10,7 +10,7 @@ website:
     right:
       - href: education.qmd
         text: EDUCATION
-      - href: projects.qmd
+      - href: projects/index.qmd
         text: PROJECTS
         
   page-footer:
