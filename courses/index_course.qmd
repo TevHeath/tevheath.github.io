@@ -1,23 +1,49 @@
 ---
-title: "Courses"
+title: "Courses (Guelph Computer Engineering)"
 ---
 
-# Engineering Design
+In this page, I will be providing the different courses throughout the University of Guelph Engineering Computer Engineering Program. Note that first-year is general and provides the foundational sciences along with a deep dive into the engineering profession.
 
-### [ENGG 1100 - Engineering and Design I](eng1100.qmd)
-
-### [ENGG 1410 - Intro to Programming for Engineers](eng1410.qmd)
+For potential employer and recruiters interest:
 
 
-# First Principles Sciences
+-   The programming course of [ENGG 1410](fall_2023/eng1410.qmd) utilizes and instructs the low-level programming language of the C and C++.
 
-### [PHYSICS 1130 - Physics with Applications](phys1130.qmd)
-
-### [MATH 1200 - Calculus I](math1200.qmd)
-
-# Chemistry
+-   The course of ENGG 1420 utilizes and teaches the object oriented language of Java.
 
 
-### [CHEM 1040 - General Chemistry I](chem1040.qmd)
+# FALL 2023
 
 
+## Engineering Design
+
+#### [ENGG 1100 - Engineering and Design I](fall_2023/eng1100.qmd)
+
+#### [ENGG 1410 - Intro to Programming for Engineers](fall_2023/eng1410.qmd)
+
+
+## First Principles Sciences
+
+#### [PHYSICS 1130 - Physics with Applications](fall_2023/phys1130.qmd)
+
+#### [MATH 1200 - Calculus I](fall_2023/math1200.qmd)
+
+## Chemistry
+
+
+#### [CHEM 1040 - General Chemistry I](fall_2023/chem1040.qmd)
+
+# WINTER 2024 (TBD)
+
+
+## Engineering Design
+
+#### ENGG 1210 - Engineering Mechanics I
+
+#### ENGG 1420 - Object-Oriented Programming for Engineers
+
+#### ENGG 1500 - Engineering Analysis 
+
+#### MATH 1210 - Calculus II
+
+#### PHYS 1010 - Introductory Electricity and Magnestism

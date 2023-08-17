@@ -135,14 +135,14 @@
   {
     "objectID": "courses/index_course.html#first-principles-sciences",
     "href": "courses/index_course.html#first-principles-sciences",
-    "title": "Courses",
+    "title": "Courses (Guelph Computer Engineering)",
     "section": "First Principles Sciences",
     "text": "First Principles Sciences\n\nPHYSICS 1130 - Physics with Applications\n\n\nMATH 1200 - Calculus I"
   },
   {
     "objectID": "courses/index_course.html#chemistry",
     "href": "courses/index_course.html#chemistry",
-    "title": "Courses",
+    "title": "Courses (Guelph Computer Engineering)",
     "section": "Chemistry",
     "text": "Chemistry\n\nCHEM 1040 - General Chemistry I"
   },
@@ -156,8 +156,36 @@
   {
     "objectID": "courses/index_course.html",
     "href": "courses/index_course.html",
-    "title": "Courses",
+    "title": "Courses (Guelph Computer Engineering)",
     "section": "",
-    "text": "Engineering Design\n\nENGG 1100 - Engineering and Design I\n\n\nENGG 1410 - Intro to Programming for Engineers\n\n\n\nFirst Principles Sciences\n\nPHYSICS 1130 - Physics with Applications\n\n\nMATH 1200 - Calculus I\n\n\n\nChemistry\n\nCHEM 1040 - General Chemistry I"
+    "text": "In this page, I will be providing the different courses throughout the University of Guelph Engineering Computer Engineering Program. Note that first-year is general and provides the foundational sciences along with a deep dive into the engineering profession.\nFor potential employer and recruiters interest:"
+  },
+  {
+    "objectID": "courses/chem1040.html",
+    "href": "courses/chem1040.html",
+    "title": "CHEM 1040 - General Chemistry I",
+    "section": "",
+    "text": "Daniel McDonald\nDepartment of Statistics\nIndiana University, Bloomington\nDarren Homrighausen\nDepartment of Statistics\nColorado State Univeristy"
+  },
+  {
+    "objectID": "courses/chem1040.html#instructors",
+    "href": "courses/chem1040.html#instructors",
+    "title": "CHEM 1040 - General Chemistry I",
+    "section": "",
+    "text": "Daniel McDonald\nDepartment of Statistics\nIndiana University, Bloomington\nDarren Homrighausen\nDepartment of Statistics\nColorado State Univeristy"
+  },
+  {
+    "objectID": "courses/index_course.html#engineering-design",
+    "href": "courses/index_course.html#engineering-design",
+    "title": "Courses (Guelph Computer Engineering)",
+    "section": "Engineering Design",
+    "text": "Engineering Design\n\nENGG 1100 - Engineering and Design I\n\n\nENGG 1410 - Intro to Programming for Engineers"
+  },
+  {
+    "objectID": "courses/index_course.html#engineering-design-1",
+    "href": "courses/index_course.html#engineering-design-1",
+    "title": "Courses (Guelph Computer Engineering)",
+    "section": "Engineering Design",
+    "text": "Engineering Design\n\nENGG 1210 - Engineering Mechanics I\n\n\nENGG 1420 - Object-Oriented Programming for Engineers\n\n\nENGG 1500 - Engineering Analysis\n\n\nMATH 1210 - Calculus II\n\n\nPHYS 1010 - Introductory Electricity and Magnestism"
   }
 ]
