@@ -15,8 +15,6 @@ website:
         text: PROJECTS
       - href: courses/index_course.qmd
         text: COURSES
-      - href: calendar/calendar.qmd
-        text: CALENDAR
         
   page-footer:
     border: true
