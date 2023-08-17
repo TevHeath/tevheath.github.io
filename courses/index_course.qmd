@@ -1,0 +1,27 @@
+---
+title: "Courses"
+---
+
+## Engineering Design
+
+### ENGG 1100 - Engineering and Design I
+
+### ENGG 1410 - Intro to Programming for Engineers
+
+
+## First Principles Sciences
+
+### PHYSICS 1130 - Physics with Applications
+
+### MATH 1200 - Calculus I
+
+## Chemistry
+
+
+### CHEM 1040 - General Chemistry I
+
+
+
+---
+
+## Public calendar {#public-calendar}

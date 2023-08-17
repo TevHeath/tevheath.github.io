@@ -131,5 +131,26 @@
     "title": "Education",
     "section": "",
     "text": "Tevin is a Computer Engineering Student!"
+  },
+  {
+    "objectID": "courses/index_course.html#first-principles-sciences",
+    "href": "courses/index_course.html#first-principles-sciences",
+    "title": "Courses",
+    "section": "First Principles Sciences",
+    "text": "First Principles Sciences\n\nPHYSICS 1130 - Physics with Applications\n\n\nMATH 1200 - Calculus I"
+  },
+  {
+    "objectID": "courses/index_course.html#chemistry",
+    "href": "courses/index_course.html#chemistry",
+    "title": "Courses",
+    "section": "Chemistry",
+    "text": "Chemistry\n\nCHEM 1040 - General Chemistry I"
+  },
+  {
+    "objectID": "courses/index_course.html#public-calendar",
+    "href": "courses/index_course.html#public-calendar",
+    "title": "Courses",
+    "section": "Public calendar",
+    "text": "Public calendar"
   }
 ]
