@@ -21,7 +21,3 @@ title: "Courses"
 ### CHEM 1040 - General Chemistry I
 
 
-
----
-
-## Public calendar {#public-calendar}
