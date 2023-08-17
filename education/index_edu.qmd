@@ -26,3 +26,24 @@ Hello world, I'm Tevin - a first-year Bachelor of Engineering Student studying C
         - Statistical Programming
 
 
+# **Internship Experience**
+---
+- **Data and Decision Support Intern**, Cambridge Memorial Hospital (June 2022 to Sept 2022)
+
+- **Business & Data Analyst Intern**, Homewood Health Inc. (April 2022 - June)
+
+- **Senior Consultant Intern**, KPMG Canada ( October 2021 - June 2022)
+
+- **Municipal Supervisor Intern**, City of London, Ontario (June 2021 - October 2021)
+
+# **Programming Languages**
+
+- C/C++
+- C#
+- HTML/CSS
+- Java
+- KQL/SQL
+- PHP
+- Python
+
+
