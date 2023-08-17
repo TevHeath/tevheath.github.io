@@ -4,6 +4,7 @@ project:
   
 website:
   title: "Tevin Heath"
+  search: false
   navbar:
     background: light
     collapse: false
@@ -22,9 +23,13 @@ website:
       <a href="cv/docs/TevH_CV-1.pdf"><i class="ai ai-cv"></i></a>
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - assets/djmquarto.scss
     css: styles.css
     toc: true
+    include-in-header: assets/header.html
 
+editor: source
 
 
