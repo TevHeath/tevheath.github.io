@@ -15,7 +15,7 @@ about:
 <i class="bi bi-github"></i></a> 
 <a href="mailto:tevinheath.beng@gmail.com">
 <i class="bi bi-envelope"></i></a>
-<a href="cv/docs/TevH_CV-1.pdf">
+<a href="cv/docs/TevH_CV-2.pdf">
 <i class="ai ai-cv"></i></a>
 </div>
 
