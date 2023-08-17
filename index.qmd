@@ -11,12 +11,12 @@ about:
 ---
 
 <div style="color: #39507d; font-size: 1.25em">
-<a href="cv/docs/TevH_CV-1.pdf">
-<i class="ai ai-cv"></i></a>
 <a href="https://github.com/tevheath">
 <i class="bi bi-github"></i></a> 
 <a href="mailto:tevinheath.beng@gmail.com">
 <i class="bi bi-envelope"></i></a>
+<a href="cv/docs/TevH_CV-1.pdf">
+<i class="ai ai-cv"></i></a>
 </div>
 
 I am a student of Computer Engineering at the University of Guelph. My professional interests focuses on the software and hardware design of renewable energy tools and equipment for mechanic and electricians. I also have a strong interest in assisting the labour force in the transition and support tools for the emerging and ever growing field of renewable innovative solutions such as solar electricity, green-fuel technologies, and renewable methods of transportation.
