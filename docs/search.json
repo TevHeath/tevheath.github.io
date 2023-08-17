@@ -186,6 +186,13 @@
     "href": "courses/index_course.html#engineering-design-1",
     "title": "Courses (Guelph Computer Engineering)",
     "section": "Engineering Design",
-    "text": "Engineering Design\n\nENGG 1210 - Engineering Mechanics I\n\n\nENGG 1420 - Object-Oriented Programming for Engineers\n\n\nENGG 1500 - Engineering Analysis\n\n\nMATH 1210 - Calculus II\n\n\nPHYS 1010 - Introductory Electricity and Magnestism"
+    "text": "Engineering Design\n\nENGG 1210 - Engineering Mechanics I\n\n\nENGG 1420 - Object-Oriented Programming for Engineers\n\n\nENGG 1500 - Engineering Analysis"
+  },
+  {
+    "objectID": "courses/index_course.html#first-principles-sciences-1",
+    "href": "courses/index_course.html#first-principles-sciences-1",
+    "title": "Courses (Guelph Computer Engineering)",
+    "section": "First Principles Sciences",
+    "text": "First Principles Sciences\n\nMATH 1210 - Calculus II\n\n\nPHYS 1010 - Introductory Electricity and Magnestism"
   }
 ]
