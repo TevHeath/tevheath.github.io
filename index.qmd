@@ -19,7 +19,7 @@ about:
 <i class="ai ai-cv"></i></a>
 </div>
 
-I am a student of Computer Engineering at the University of Guelph. My professional interests focuses on the software and hardware design of renewable energy tools and equipment for mechanic and electricians. I also have a strong interest in assisting the labour force in the transition and support tools for the emerging and ever growing field of renewable innovative solutions such as solar electricity, green-fuel technologies, and renewable methods of transportation.
+Hello world, I am a Computer Engineering Student at the University of Guelph. My professional interests focuses on the software and hardware design of renewable energy tools and equipment for applied trades workers such as mechanics and electricians. I also have a strong interest in assisting the tradesmen in the transition and designing support tools for the emerging and ever growing field of renewable innovative solutions such as solar electricity, green-fuel technologies, and renewable methods of transportation.
 
 Prior to the attending the University of Guelph, I completed my Honours Bachelor of Science (B.Sc) degree from McMaster University in Mathematics and Statistics.
 
@@ -27,4 +27,4 @@ At the University of Guelph, I mentor and assist in group projects and volunteer
 
 Feel free to book an appointment or send me an email, I am always open to chat, mentor, and share towards the many challenges the future has within the field of renewable hardware technologies and software's.
 
-Download my curriculum vitae ([here](cv/docs/TevH_CV-1.pdf))
+**Download my curriculum vitae** ([here](cv/docs/TevH_CV-1.pdf))
