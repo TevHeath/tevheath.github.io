@@ -152,5 +152,12 @@
     "title": "Courses",
     "section": "Public calendar",
     "text": "Public calendar"
+  },
+  {
+    "objectID": "courses/index_course.html",
+    "href": "courses/index_course.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Engineering Design\n\nENGG 1100 - Engineering and Design I\n\n\nENGG 1410 - Intro to Programming for Engineers\n\n\n\nFirst Principles Sciences\n\nPHYSICS 1130 - Physics with Applications\n\n\nMATH 1200 - Calculus I\n\n\n\nChemistry\n\nCHEM 1040 - General Chemistry I"
   }
 ]

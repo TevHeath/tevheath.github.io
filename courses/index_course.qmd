@@ -4,20 +4,20 @@ title: "Courses"
 
 # Engineering Design
 
-### ENGG 1100 - Engineering and Design I
+### [ENGG 1100 - Engineering and Design I](eng1100.qmd)
 
-### ENGG 1410 - Intro to Programming for Engineers
+### [ENGG 1410 - Intro to Programming for Engineers](eng1410.qmd)
 
 
 # First Principles Sciences
 
-### PHYSICS 1130 - Physics with Applications
+### [PHYSICS 1130 - Physics with Applications](phys1130.qmd)
 
-### MATH 1200 - Calculus I
+### [MATH 1200 - Calculus I](math1200.qmd)
 
 # Chemistry
 
 
-### CHEM 1040 - General Chemistry I
+### [CHEM 1040 - General Chemistry I](chem1040.qmd)
 
 
