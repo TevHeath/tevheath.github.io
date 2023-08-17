@@ -2,5 +2,13 @@
 title: "Education"
 ---
 
+Hello world, I'm Tevin - a first-year Bachelor of Engineering Student studying Computer Engineering from the University of Guelph. I am deeply passionate about technology, engineering and control system, and mentoring. I am would like to make the world a better place, while inspiring other to do the same. More details about my work experience and qualifications can be on on LinkedIn at (add url).
 
-Tevin is a Computer Engineering Student!
+---
+
+- Bachelor of Engineering in Computer Engineering (Co-op)
+-     University of Guelph (Sep. 2023 - Present)
+
+- Bachleor of Science (Honours) in Mathematics & Statistics
+-     McMaster University (Sep. 2016 -  Jul 2020)
+

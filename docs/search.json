@@ -130,7 +130,7 @@
     "href": "education/index_edu.html",
     "title": "Education",
     "section": "",
-    "text": "Tevin is a Computer Engineering Student!"
+    "text": "Hello world, I’m Tevin - a first-year Bachelor of Engineering Student studying Computer Engineering from the University of Guelph. I am deeply passionate about technology, engineering and control system, and mentoring. I am would like to make the world a better place, while inspiring other to do the same. More details about my work experience and qualifications can be on on LinkedIn at (add url).\n\n\nBachelor of Engineering in Computer Engineering (Co-op)\nUniversity of Guelph (Sep. 2023 - Present)\nBachleor of Science (Honours) in Mathematics & Statistics\nMcMaster University (Sep. 2016 -  Jul 2020)"
   },
   {
     "objectID": "courses/index_course.html#first-principles-sciences",
@@ -208,5 +208,19 @@
     "title": "Engineering 1100 - Engineering Design I",
     "section": "",
     "text": "Hi my friends how are you"
+  },
+  {
+    "objectID": "education/index_edu.html#education",
+    "href": "education/index_edu.html#education",
+    "title": "Education",
+    "section": "Education",
+    "text": "Education\n\nBachelor of Engineering in Computer Engineering (Co-op)\nUniversity of Guelph (Sep. 2023 - Present)\nBachleor of Science (Honours) in Mathematics & Statistics\nMcMaster University (Sep. 2016 -  Jul 2020)"
+  },
+  {
+    "objectID": "education/index_edu.html#work-experience",
+    "href": "education/index_edu.html#work-experience",
+    "title": "Education",
+    "section": "Work Experience",
+    "text": "Work Experience"
   }
 ]
