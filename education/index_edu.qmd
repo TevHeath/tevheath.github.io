@@ -42,8 +42,9 @@ Hello world, I'm Tevin - a first-year Bachelor of Engineering Student studying C
 - C#
 - HTML/CSS
 - Java
-- KQL/SQL
-- PHP
+- SQL
 - Python
+- R
+
 
 
