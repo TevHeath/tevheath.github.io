@@ -4,6 +4,16 @@ title: "Projects"
 
 ## Engineering Projects
 
+### Embedded Systems
+
+#### Current Projects
+
+- TBD 
+
+#### Past Projects
+
+- Coming Soon
+
 ### Software
 
 #### Current Projects
