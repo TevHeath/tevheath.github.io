@@ -21,7 +21,7 @@ about:
 
 Hello world, I am a Computer Engineering Student at the University of Guelph. My professional interests focuses on the software and hardware design of renewable energy tools using embedded system engineering techniques. I strive to design projects for both commercial and educational use targeted within the field of electricity and renewable/alternative sources of energy. 
 
-Prior to the attending the University of Guelph, I completed my Honours Bachelor of Science (B.Sc) degree from McMaster University in Mathematics and Statistics. during my tenure in McMaster University's Mathematics & Statistics Program, I focused on courses in Data Science, Computational Statistics using R, and Mathematical Modelling using C and Python. Many of my extracurricular activities were aimed in mentoring first year students and student governance on strategy and budget executive boards.
+Prior to the attending the University of Guelph, I completed my Honours Bachelor of Science (B.Sc) degree from McMaster University in Mathematics and Statistics, during my tenure in McMaster University's Mathematics & Statistics Program, key courses and studies remained as a focus in my studies. These courses were Data Science, Data Visualization, Machine Learning, and Computational Statistics using R, and Mathematical Modelling using C and Python. Finally, many of my extracurricular activities were aimed in mentoring first year students and student governance on strategy and budget executive boards.
 
 At the University of Guelph, I strive to become a project leader and communicator in many engineering projects. While leveraging my professional network and internship experience.
 
