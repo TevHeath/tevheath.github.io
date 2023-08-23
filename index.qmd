@@ -19,11 +19,12 @@ about:
 <i class="ai ai-cv"></i></a>
 </div>
 
-Hello world, I am a Computer Engineering Student at the University of Guelph. My professional interests focuses on the software and hardware design of renewable energy tools and equipment for applied trades workers such as mechanics and electricians. I also have a strong interest in assisting the tradesmen in the transition and designing support tools for the emerging and ever growing field of renewable innovative solutions such as solar electricity, green-fuel technologies, and renewable methods of transportation.
+Hello world, I am a Computer Engineering Student at the University of Guelph. My professional interests focuses on the software and hardware design of renewable energy tools using embedded system engineering techniques. I strive to design projects for both commercial and educational use targeted within the field of electricity and renewable/alternative sources of energy. 
 
-Prior to the attending the University of Guelph, I completed my Honours Bachelor of Science (B.Sc) degree from McMaster University in Mathematics and Statistics.
+Prior to the attending the University of Guelph, I completed my Honours Bachelor of Science (B.Sc) degree from McMaster University in Mathematics and Statistics. during my tenure in McMaster University's Mathematics & Statistics Program, I focused on courses in Data Science, Computational Statistics using R, and Mathematical Modelling using C and Python. Many of my extracurricular activities were aimed in mentoring first year students and student governance on strategy and budget executive boards.
 
-At the University of Guelph, I mentor and assist in group projects and volunteer in coding, design, and engineering competition, while balancing my intensive coursework and engineering skillet on a daily basis.
+At the University of Guelph, I strive to become a project leader and communicator in many engineering projects. While leveraging my professional network and internship experience.
+
 
 Feel free to book an appointment or send me an email, I am always open to chat, mentor, and share towards the many challenges the future has within the field of renewable hardware technologies and software's.
 
