@@ -26,6 +26,6 @@ Prior to attending the University of Guelph, I completed my Honours Bachelor of 
 At the University of Guelph, I strive to become a project leader and communicator in many engineering projects, while leveraging my professional network and internship experience.
 
 
-Feel free to book an appointment or send me an email. I am always open to chat, mentor, and share ideas about the many challenges the future has within the field of renewable energy tools using embedded system engineering techniques.
+Feel free to send me an **email**. I am always open to chat, mentor, and share ideas about the many challenges the future has within the field of renewable energy tools using embedded system engineering techniques.
 
 **Download my resume** ([here](cv/docs/TevH_CV-2.pdf))
