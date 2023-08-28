@@ -15,7 +15,7 @@ about:
 <i class="bi bi-github"></i></a> 
 <a href="mailto:tevinheath.beng@gmail.com">
 <i class="bi bi-envelope"></i></a>
-<a href="cv/docs/TevH_CV-2.pdf">
+<a href="cv/docs/TevH_CV-8.pdf">
 <i class="ai ai-cv"></i></a>
 </div>
 
@@ -28,4 +28,4 @@ At the University of Guelph, I strive to become a project leader and communicato
 
 Feel free to send me an **email**. I am always open to chat, mentor, and share ideas about the many challenges the future has within the field of renewable energy tools using embedded system engineering techniques.
 
-**Download my resume** ([here](cv/docs/TevH_CV-2.pdf))
+**Download my resume** ([here](cv/docs/TevH_CV-8.pdf))
