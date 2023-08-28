@@ -37,7 +37,7 @@ Hello world, I'm Tevin - a first-year Bachelor of Engineering student studying C
 - **Municipal Supervisor Intern**, City of London, Ontario (June 2021 - October 2021)
 
 
-# Certificate
+# Professional Development Certificate
 
 
 ::: {layout-ncol=2 .column-screen-inset-right}
@@ -50,7 +50,7 @@ Hello world, I'm Tevin - a first-year Bachelor of Engineering student studying C
 :::
 
 
-# **Undergraduate Publications**
+# Undergraduate Publications
 
 During my 2nd year in the Mathematics & Statistics program at McMaster University. I was selected as the sole undergraduate student to work with Dr. Federico Germini, an assistant professor at McMaster University within the Department of Medicine and Division of Hematology and Thromboembolism and other internationally recognized scholars in contributing to analysis of evidence-based research in emergency medicine. I was part of the publication team that to assisted Dr. Federico Germini in the data management and analysis, as well as the statistical review by providing timely feedback and input over any statistical issues corresponding draft before final submission and final publication. As an undergraduate student I received my name on the publication for my contribution. This experience provided me with an in-depth practical skills of data analysis, statistical programming,  project communication within research. Additionally, it provided a first look for research design from the start of a project towards submission and acceptance.
 
