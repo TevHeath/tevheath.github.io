@@ -36,6 +36,17 @@ Hello world, I'm Tevin - a first-year Bachelor of Engineering student studying C
 
 - **Municipal Supervisor Intern**, City of London, Ontario (June 2021 - October 2021)
 
+
+# Certificate
+
+::: {layout-ncol=3 .column-screen-inset-right}
+![R Programming Data Science @ Udemy (2021)](/assets/img/datasci_r_cert.jpg)
+
+![Python Data Science @ Udemy (2021)](/assets/img/datasci_python_cert.jpg)
+:::
+
+
+
 # **Programming Languages**
 
 - C/C++
