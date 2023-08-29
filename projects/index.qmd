@@ -4,7 +4,7 @@ title: "Projects"
 
 ## Engineering Projects
 
-### Embedded Systems
+###  Control Systems
 
 #### Current Projects
 
