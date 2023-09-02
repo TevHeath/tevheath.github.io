@@ -4,7 +4,7 @@ title: "Projects"
 
 ## Engineering Projects
 
-###  Control Systems
+###  Software & Programming
 
 #### Current Projects
 
@@ -14,21 +14,11 @@ title: "Projects"
 
 - Coming Soon
 
-### Software
+### Hardware Design
 
 #### Current Projects
 
 - TBD 
-
-#### Past Projects
-
-- Coming Soon
-
-### Hardware
-
-#### Current Projects
-
-- TBD
 
 #### Past Projects
 
@@ -43,6 +33,7 @@ title: "Projects"
 #### Past Projects
 
 - Coming Soon
+
 
 ### Personal
 
