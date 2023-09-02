@@ -2,7 +2,7 @@
 title: "Education"
 ---
 
-Hello world, I'm Tevin - a first-year **Bachelor of Engineering** student studying **Computer Engineering** at University of Guelph. I am deeply passionate about computer networks, signal processing & communication, and control systems design for educational and commercial use. I have previous educational training in Mathematics and Statistics, where I focused on data science, machine learning biostatistics research design, and project management. I would like to make the world a better place, while inspiring others to do the same.
+Hello world, I'm Tevin - a first-year **Bachelor of Engineering** student studying **Computer Engineering** at University of Guelph. I am deeply passionate about computer networks, signal processing & communication, and control systems design for educational and commercial use. I have previous educational training in Mathematics and Statistics, where I focused on data science, machine learning, biostatistics, research design, and project management. I would like to make the world a better place, while inspiring others to do the same.
 
 ---
 
