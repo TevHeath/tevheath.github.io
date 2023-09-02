@@ -66,8 +66,8 @@ This publication was accepted on **August 2, 2019** and published on **November 
 
 # Programming Languages
 
-- C/C++
-- C#
+- C
+- C++
 - Matlab & Simulink
 - Python
 - Java
