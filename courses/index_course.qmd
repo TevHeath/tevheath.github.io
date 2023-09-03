@@ -19,7 +19,7 @@ For potential employer and recruiters interest:
 
 #### [ENGG 1100 - Engineering and Design I](fall_2023/eng1100.qmd)
 
-#### [ENGG 1410 - Intro to Programming for Engineers](fall_2023/eng1410.qmd)
+#### [ENGG 1410 - Intro to Programming for Engineers (C/C++)](fall_2023/eng1410.qmd)
 
 
 ## First Principles Sciences
@@ -40,7 +40,7 @@ For potential employer and recruiters interest:
 
 #### ENGG 1210 - Engineering Mechanics I
 
-#### ENGG 1420 - Object-Oriented Programming for Engineers
+#### ENGG 1420 - Object-Oriented Programming for Engineers (Java)
 
 #### ENGG 1500 - Engineering Analysis 
 
