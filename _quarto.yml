@@ -13,8 +13,8 @@ website:
         text: EDUCATION
       - href: projects/index.qmd
         text: PROJECTS
-     # - href: courses/index_course.qmd
-     #  text: COURSES
+      - href: courses/index_course.qmd
+        text: COURSES
         
   page-footer:
     border: true
