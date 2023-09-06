@@ -2,5 +2,6 @@
 title: "Engineering 1100 - Engineering Design I"
 ---
 
+Thank you for entering this post, I will be uploading the necessary course slides from **Engineering 1100 - Engineering Design I**.
 ## Syllabus
 
