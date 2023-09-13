@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Tevin Heath"
+  title: "T.J Prescod-Heath"
   search: false
   navbar:
     background: light
@@ -18,7 +18,7 @@ website:
         
   page-footer:
     border: true
-    right: "© 2023, Tevin Heath"
+    right: "© 2023, T.J Prescod-Heath"
     center: |
       <a href="https://github.com/tevheath"><i class="bi bi-github"></i></a>
       <a href="mailto:tevinheath.beng@gmail.com"><i class="bi bi-envelope"></i></a>

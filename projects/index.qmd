@@ -17,7 +17,7 @@ Thank you for visiting my Projects page. The purpose of this page aims at provid
 
 - Coming Soon
 
-### Hardware Design
+### Computational Science
 
 #### Current Projects
 
@@ -27,7 +27,7 @@ Thank you for visiting my Projects page. The purpose of this page aims at provid
 
 - Coming Soon
 
-### Computational Science
+### Hardware Design
 
 #### Current Projects
 

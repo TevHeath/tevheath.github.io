@@ -1,5 +1,5 @@
 ---
-title: "Tevin Heath"
+title: "T.J Prescod-Heath"
 format: 
   html: 
     page-layout: full
