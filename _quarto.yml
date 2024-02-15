@@ -16,6 +16,7 @@ website:
       - href: courses/index_course.qmd
         text: COURSES
         
+        
   page-footer:
     border: true
     right: "© 2023, T.J Prescod-Heath"
