@@ -11,8 +11,8 @@ website:
     right:
       - href: education/index_edu.qmd
         text: EDUCATION
-      - href: projects/index.qmd
-        text: PROJECTS
+      # - href: projects/index.qmd
+      #   text: PROJECTS
       - href: courses/index_course.qmd
         text: COURSES
         

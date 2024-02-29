@@ -2,7 +2,10 @@
 title: "Education"
 ---
 
-Hello world, I'm Tevin - a first-year **Bachelor of Engineering** student studying **Computer Engineering** at University of Guelph. I am deeply passionate about computer networks, signal processing & communication, and control systems design for educational and commercial use. I have previous educational training in **Mathematics and Statistics**, where I focused on data science, machine learning, biostatistics, research design, and project management. I would like to make the world a better place, while inspiring others to do the same.
+Hello world, I'm Tevin - a first-year **Bachelor of Engineering** student studying **Computer Engineering** at University of Guelph. I am deeply passionate about computer networks, signal processing & communication, and control systems design for educational and commercial use. 
+
+
+<!-- I have previous educational training in **Mathematics and Statistics**, where I focused on data science, machine learning, biostatistics, research design, and project management. I would like to make the world a better place, while inspiring others to do the same. -->
 
 ---
 
@@ -16,25 +19,25 @@ Hello world, I'm Tevin - a first-year **Bachelor of Engineering** student studyi
 
 \vspace{0.25cm}
 
-#### **Bachelor of Science (Honours) in Mathematics & Statistics**
--     McMaster University (Sep. 2016 -  Jul 2020)
-    + **Interests**:
-        - Data Science
-        - Machine Learning
-        - Applied Statistics & Biostatitics
-        - Time Series Modelling
-        - Statistical Programming
+<!-- #### **Bachelor of Science (Honours) in Mathematics & Statistics** -->
+<!-- -     McMaster University (Sep. 2016 -  Jul 2020) -->
+<!--     + **Interests**: -->
+<!--         - Data Science -->
+<!--         - Machine Learning -->
+<!--         - Applied Statistics & Biostatitics -->
+<!--         - Time Series Modelling -->
+<!--         - Statistical Programming -->
 
 
-# **Internship Experience**
+# **Industry Experience**
 ---
-- **Data and Decision Support Intern**, Cambridge Memorial Hospital (June 2022 to Sept 2022)
+- **Data and Decision Support**, Cambridge Memorial Hospital (June 2022 to Sept 2022)
 
-- **Business & Data Analyst Intern**, Homewood Health Inc. (April 2022 - June 2022)
+- **Business & Data Analyst**, Homewood Health Inc. (April 2022 - June 2022)
 
-- **Senior Consultant Intern**, KPMG Canada (October 2021 - May 2022)
+- **Senior Consultant**, KPMG Canada (October 2021 - May 2022)
 
-- **Municipal Supervisor Intern**, City of London, Ontario (June 2021 - October 2021)
+- **Municipal Supervisor**, City of London, Ontario (June 2021 - October 2021)
 
 
 # Professional Development Certificates

@@ -2,14 +2,14 @@
 title: "Courses (Guelph Computer Engineering)"
 ---
 
-Thank you for visiting my courses pages. Feel free to explore the courses that I have enrolled in throuhgout studies as a Computer Engineering Student at the University of Guelph. This page aims at  providing the different courses throughout the University of Guelph Engineering Computer Engineering Program. Note that first-year is general and provides the foundational sciences along with a deep dive into the engineering profession.
+Thank you for visiting my courses pages. Feel free to explore the courses that I have enrolled in throuhgout studies as a Computer Engineering Student at the University of Guelph. This page aims at providing the different courses throughout the University of Guelph Engineering Computer Engineering Program. Note that first-year is general and provides the foundational sciences along with a deep dive into the engineering profession.
 
 For potential employer and recruiters interest:
 
 
--   The programming course of [ENGG 1410](fall_2023/eng1410.qmd) utilizes and instructs the low-level programming language of the C and C++.
+-   The programming course of ENGG 1410 utilizes and instructs the low-level programming language of the C and C++.
 
--   The course of ENGG 1420 utilizes and teaches the object oriented language of Java.
+
 
 
 # FALL 2023
@@ -17,30 +17,33 @@ For potential employer and recruiters interest:
 
 ## Engineering Design
 
-#### [ENGG 1100 - Engineering and Design I](fall_2023/eng1100.qmd)
+#### ENGG 1100 - Engineering and Design I
+<!-- (fall_2023/eng1100.qmd) -->
 
-#### [ENGG 1410 - Intro to Programming for Engineers (C/C++)](fall_2023/eng1410.qmd)
+#### ENGG 1410 - Intro to Programming for Engineers (C/C++)
+<!-- (fall_2023/eng1410.qmd) -->
 
 
 ## First Principles Sciences
 
-#### [PHYSICS 1130 - Physics with Applications](fall_2023/phys1130.qmd)
+#### PHYSICS 1130 - Physics with Applications
+<!-- (fall_2023/phys1130.qmd) -->
 
-#### [MATH 1200 - Calculus I](fall_2023/math1200.qmd)
+#### MATH 1200 - Calculus I
+<!-- (fall_2023/math1200.qmd) -->
 
-## Chemistry
+<!-- ## Chemistry -->
 
+<!-- #### [CHEM 1040 - General Chemistry I](fall_2023/chem1040.qmd) -->
 
-#### [CHEM 1040 - General Chemistry I](fall_2023/chem1040.qmd)
-
-# WINTER 2024 (TBD)
+# WINTER 2024
 
 
 ## Engineering Design
 
 #### ENGG 1210 - Engineering Mechanics I
 
-#### ENGG 1420 - Object-Oriented Programming for Engineers (Java)
+<!-- #### ENGG 1420 - Object-Oriented Programming for Engineers (Java) -->
 
 #### ENGG 1500 - Engineering Analysis 
 
