@@ -5,7 +5,7 @@ format:
     page-layout: full
 about:
   template: solana
-  image: assets/img/big_profile_img.jpeg
+  # image: assets/img/big_profile_img.jpeg
   image-width: 30em
   image-shape: rectangle
 ---
