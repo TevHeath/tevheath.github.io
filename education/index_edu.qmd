@@ -13,7 +13,7 @@ Hello world, I'm Tevin - a first-year **Bachelor of Engineering** student studyi
 -     The University of Guelph (Sep. 2023 - PRESENT)
     + **Interests**:
         - Hardware Design & Modelling
-        - Control System Engineering
+        - Software Engineering
         - Electrical Engineering
         - Computer System Design & Networks
 
@@ -21,13 +21,17 @@ Hello world, I'm Tevin - a first-year **Bachelor of Engineering** student studyi
 
 <!-- #### **Bachelor of Science (Honours) in Mathematics & Statistics** -->
 <!-- -     McMaster University (Sep. 2016 -  Jul 2020) -->
-<!--     + **Interests**: -->
+<!--     + **Interests**: 
 <!--         - Data Science -->
-<!--         - Machine Learning -->
+<!--         - Machine Learning & AI -->
 <!--         - Applied Statistics & Biostatitics -->
 <!--         - Time Series Modelling -->
 <!--         - Statistical Programming -->
 
+
+# **Internship Experience**
+
+- **Supply & Project Management Intern**, City of Calgary (May 2024 to PRESENT)
 
 # **Industry Experience**
 ---
@@ -65,14 +69,13 @@ Hello world, I'm Tevin - a first-year **Bachelor of Engineering** student studyi
 
 # Programming Languages
 
-- C
-- C++
+- R
+- VHDL
+- C & C++
 - Matlab & Simulink
 - Python
-- Java
+- Javascipt
 - HTML/CSS
 - SQL
-- R
-
 
 
