@@ -17,20 +17,16 @@ For potential employer and recruiters interest:
 
 ## Engineering Design
 
-#### ENGG 1100 - Engineering and Design I
-<!-- (fall_2023/eng1100.qmd) -->
+#### [ENGG 1100 - Engineering and Design I](fall_2023/eng1100.qmd)
 
-#### ENGG 1410 - Intro to Programming for Engineers (C/C++)
-<!-- (fall_2023/eng1410.qmd) -->
+#### [ENGG 1410 - Intro to Programming for Engineers (C/C++)](fall_2023/eng1410.qmd)
 
 
 ## First Principles Sciences
 
-#### PHYSICS 1130 - Physics with Applications
-<!-- (fall_2023/phys1130.qmd) -->
+#### [PHYSICS 1130 - Physics with Applications](fall_2023/phys1130.qmd)
 
-#### MATH 1200 - Calculus I
-<!-- (fall_2023/math1200.qmd) -->
+#### [MATH 1200 - Calculus I](fall_2023/math1200.qmd)
 
 <!-- ## Chemistry -->
 

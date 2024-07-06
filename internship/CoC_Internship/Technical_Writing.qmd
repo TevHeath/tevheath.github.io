@@ -1,0 +1,5 @@
+---
+title: "Technical Writing Learning"
+---
+
+Thank you for entering this post, I will be uploading my personal thoughts, opinion and notes within this page for the course **Engineering 1410 - Intro to Programming for Engineers**.
