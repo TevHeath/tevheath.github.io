@@ -11,5 +11,12 @@
       "/test-blog/posts/post-with-code/index.html",
       "/test-blog/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/post-with-code/index.html",
+      "/blog/posts/welcome/index.html"
+    ]
   }
 ]

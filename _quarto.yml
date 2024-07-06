@@ -13,7 +13,7 @@ website:
         text: EDUCATION
       - href: internship/internship.qmd
         text: INTERNSHIP
-      - href: test-blog/index.qmd
+      - href: blog/index.qmd
         text: BLOG
       - href: projects/project.qmd
         text: PROJECTS
