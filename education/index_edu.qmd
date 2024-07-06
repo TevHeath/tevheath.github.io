@@ -69,18 +69,12 @@ Hello world, I'm Tevin - a first-year **Bachelor of Engineering** student studyi
 
 # Programming Languages
 
-<<<<<<< HEAD
 - C & C++
 - Matlab & Simulink
 - Python
-=======
 - R
 - VHDL
-- C & C++
-- Matlab & Simulink
-- Python
-- Javascipt
->>>>>>> 29d2e7b6c44b4af6e81e0cdf1d0766b65bef77ca
+- Javascript
 - HTML/CSS
 - SQL
 
