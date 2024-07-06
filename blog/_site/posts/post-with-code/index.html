@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Harlow Malloc">
+<meta name="dcterms.date" content="2024-07-05">
 
-<title>T.J Prescod-Heath - Projects</title>
+<title>test-blog - Post With Code</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,22 +22,66 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -48,159 +94,102 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand navbar-dark ">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">T.J Prescod-Heath</span>
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">test-blog</span>
     </a>
   </div>
-          <ul class="navbar-nav navbar-nav-scroll ms-auto">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../education/index_edu.html" rel="" target="">
- <span class="menu-text">EDUCATION</span></a>
+    <a class="nav-link" href="../../about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../internship/internship.html" rel="" target="">
- <span class="menu-text">INTERNSHIP</span></a>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../blog/index.html" rel="" target="">
- <span class="menu-text">BLOG</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../projects/project.html" rel="" target="" aria-current="page">
- <span class="menu-text">PROJECTS</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../courses/index_course.html" rel="" target="">
- <span class="menu-text">COURSES</span></a>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com" rel="" target=""><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
+          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Post With Code</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">news</div>
+                <div class="quarto-category">code</div>
+                <div class="quarto-category">analysis</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Harlow Malloc </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">July 5, 2024</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#engineering-projects" id="toc-engineering-projects" class="nav-link active" data-scroll-target="#engineering-projects">Engineering Projects</a>
-  <ul class="collapse">
-  <li><a href="#software-programming" id="toc-software-programming" class="nav-link" data-scroll-target="#software-programming">Software &amp; Programming</a></li>
-  <li><a href="#computational-science" id="toc-computational-science" class="nav-link" data-scroll-target="#computational-science">Computational Science</a></li>
-  <li><a href="#hardware-design" id="toc-hardware-design" class="nav-link" data-scroll-target="#hardware-design">Hardware Design</a></li>
-  <li><a href="#personal" id="toc-personal" class="nav-link" data-scroll-target="#personal">Personal</a></li>
-  <li><a href="#other" id="toc-other" class="nav-link" data-scroll-target="#other">Other</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Projects</h1>
+
+
+
+<p>This is a post with executable code.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
+</div>
 </div>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<p>Thank you for visiting my Projects page. The purpose of this page aims at providing employers an exploration of the different projects that I will be exploring in Engineering School at the University of Guelph. As more fundamental knowledge of the Engineering Discipline increases the amount of projects that I will intake will <strong>increase</strong>. Look below at the following sections that I plan to become involved in throughout my Engineering Journey.</p>
-<section id="engineering-projects" class="level2">
-<h2 class="anchored" data-anchor-id="engineering-projects">Engineering Projects</h2>
-<section id="software-programming" class="level3">
-<h3 class="anchored" data-anchor-id="software-programming">Software &amp; Programming</h3>
-<section id="current-projects" class="level4">
-<h4 class="anchored" data-anchor-id="current-projects">Current Projects</h4>
-<ul>
-<li>TBD</li>
-</ul>
-</section>
-<section id="past-projects" class="level4">
-<h4 class="anchored" data-anchor-id="past-projects">Past Projects</h4>
-<ul>
-<li>Coming Soon</li>
-</ul>
-</section>
-</section>
-<section id="computational-science" class="level3">
-<h3 class="anchored" data-anchor-id="computational-science">Computational Science</h3>
-<section id="current-projects-1" class="level4">
-<h4 class="anchored" data-anchor-id="current-projects-1">Current Projects</h4>
-<ul>
-<li>TBD</li>
-</ul>
-</section>
-<section id="past-projects-1" class="level4">
-<h4 class="anchored" data-anchor-id="past-projects-1">Past Projects</h4>
-<ul>
-<li>Coming Soon</li>
-</ul>
-</section>
-</section>
-<section id="hardware-design" class="level3">
-<h3 class="anchored" data-anchor-id="hardware-design">Hardware Design</h3>
-<section id="current-projects-2" class="level4">
-<h4 class="anchored" data-anchor-id="current-projects-2">Current Projects</h4>
-<ul>
-<li>TBD</li>
-</ul>
-</section>
-<section id="past-projects-2" class="level4">
-<h4 class="anchored" data-anchor-id="past-projects-2">Past Projects</h4>
-<ul>
-<li>Coming Soon</li>
-</ul>
-</section>
-</section>
-<section id="personal" class="level3">
-<h3 class="anchored" data-anchor-id="personal">Personal</h3>
-<section id="current-projects-3" class="level4">
-<h4 class="anchored" data-anchor-id="current-projects-3">Current Projects</h4>
-<ul>
-<li>TBD</li>
-</ul>
-</section>
-<section id="past-projects-3" class="level4">
-<h4 class="anchored" data-anchor-id="past-projects-3">Past Projects</h4>
-<ul>
-<li>Coming Soon</li>
-</ul>
-</section>
-</section>
-<section id="other" class="level3">
-<h3 class="anchored" data-anchor-id="other">Other</h3>
-
-
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -437,15 +426,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
-    <div class="nav-footer-center"><a href="https://github.com/tevheath"><i class="bi bi-github"></i></a> <a href="mailto:tevinheath.beng@gmail.com"><i class="bi bi-envelope"></i></a> <a href="cv/docs/TevH_CV_Eng.pdf"><i class="ai ai-cv"></i></a></div>
-    <div class="nav-footer-right">© 2023, T.J Prescod-Heath</div>
-  </div>
-</footer>
 
 
 
