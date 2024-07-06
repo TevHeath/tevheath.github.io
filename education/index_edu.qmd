@@ -9,7 +9,7 @@ Hello world, I'm Tevin - a first-year **Bachelor of Engineering** student studyi
 
 ---
 
-#### **Bachelor of Engineering in Computer Engineering (Co-op)**
+#### **Bachelor of Engineering in Computer Engineering**
 -     The University of Guelph (Sep. 2023 - PRESENT)
     + **Interests**:
         - Hardware Design & Modelling
@@ -65,11 +65,9 @@ Hello world, I'm Tevin - a first-year **Bachelor of Engineering** student studyi
 
 # Programming Languages
 
-- C
-- C++
+- C & C++
 - Matlab & Simulink
 - Python
-- Java
 - HTML/CSS
 - SQL
 - R
