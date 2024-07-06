@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/blog/blog.html",
+    "items": [
+      "/blog/blog_post/blog_post_1.html"
+    ]
+  },
+  {
+    "listing": "/test-blog/index.html",
+    "items": [
+      "/test-blog/posts/post-with-code/index.html",
+      "/test-blog/posts/welcome/index.html"
+    ]
+  }
+]
