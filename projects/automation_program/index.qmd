@@ -1,0 +1,17 @@
+---
+title: "Automation Program Design Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Creating a program often isn't as simple as writing code. Ever since I started my journey in Computer Engineering, I learned that the practical side often is connect with the design a components. This pages aims as highlighting and documenting this design process, practical solutions, user-experience and error and problems that are faced. Finally, one of the most underrated components that I have learned in my industry and internship experience is that writing is critical in engineering, programming, teamwork, and software development. The writing does not have to be code related, but it needs to be efficient, effective and most important should be practiced daily. 
+
+This page aims at ensuring that I can provide different forms of documentation and writing.
+

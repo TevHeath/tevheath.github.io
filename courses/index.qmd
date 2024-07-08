@@ -1,0 +1,35 @@
+---
+title: "Education"
+---
+
+# Education
+
+<details>
+  <summary>Fall 2024</summary>
+
+### Courses
+
+- **Course 1**: Description of course 1.
+- **Course 2**: Description of course 2.
+
+### Activities
+
+- **Activity 1**: Description of activity 1.
+- **Activity 2**: Description of activity 2.
+
+</details>
+
+<details>
+  <summary>Winter 2025</summary>
+
+### Courses
+
+- **Course 1**: Description of course 1.
+- **Course 2**: Description of course 2.
+
+### Activities
+
+- **Activity 1**: Description of activity 1.
+- **Activity 2**: Description of activity 2.
+
+</details>

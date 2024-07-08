@@ -130,7 +130,7 @@
     "href": "education/index_edu.html",
     "title": "Education",
     "section": "",
-    "text": "Hello world, I’m Tevin - a first-year Bachelor of Engineering student studying Computer Engineering at University of Guelph. I am deeply passionate about computer networks, signal processing & communication, and control systems design for educational and commercial use.\n\n\n\nBachelor of Engineering in Computer Engineering\n\nThe University of Guelph (Sep. 2023 - PRESENT)\n\nInterests:\n\nHardware Design & Modelling\nSoftware Engineering\nElectrical Engineering\nComputer System Design & Networks\n\n\n\n\n\n\n\n\n\n\n\n\nInternship Experience\n\nSupply & Project Management Intern, City of Calgary (May 2024 to PRESENT)\n\n\n\nIndustry Experience\n\n\nData and Decision Support Intern, Cambridge Memorial Hospital (June 2022 to Sept 2022)\nBusiness & Data Analyst Intern, Homewood Health Inc. (April 2022 - June 2022)\nSenior Consultant Intern, KPMG Canada (October 2021 - May 2022)\nMunicipal Supervisor Intern, City of London, Ontario (June 2021 - October 2021)\n\n\n\nProfessional Development Certificates\n\n\n\nWestern Ivey Program Entrepreneurship Certificate (2020)  R Programming Data Science @ Udemy (2021)  Python Data Science @ Udemy (2021) \n\n\n\n\n\n\n\n\n\nProgramming Languages\n\nC & C++\nMatlab & Simulink\nPython\nR\nVHDL\nJavascript\nHTML/CSS\nSQL"
+    "text": "Hello world, I’m Tevin - a second-year (i.e., Sophomore) Bachelor of Engineering student studying Computer Engineering at University of Guelph. I am deeply passionate about computer networks, signal processing & communication, and control systems design for educational and commercial use.\n\n\n\nBachelor of Engineering in Computer Engineering\n\nThe University of Guelph (Sep. 2023 - PRESENT)\n\nInterests:\n\nHardware Design & Modelling\nSoftware Engineering\nElectrical Engineering\nComputer System Design & Networks\n\n\n\n\n\n\n\n\n\n\n\n\nInternship Experience\n\nSupply & Project Management Intern, City of Calgary (May 2024 to PRESENT)\n\n\n\nIndustry Experience\n\n\nData and Decision Support Intern, Cambridge Memorial Hospital (June 2022 to Sept 2022)\nBusiness & Data Analyst Intern, Homewood Health Inc. (April 2022 - June 2022)\nSenior Consultant Intern, KPMG Canada (October 2021 - May 2022)\nMunicipal Supervisor Intern, City of London, Ontario (June 2021 - October 2021)\n\n\n\nProfessional Development Certificates\n\n\n\nWestern Ivey Program Entrepreneurship Certificate (2020)  R Programming Data Science @ Udemy (2021)  Python Data Science @ Udemy (2021) \n\n\n\n\n\n\n\n\n\nProgramming Languages\n\nC & C++\nMatlab & Simulink\nPython\nR\nVHDL\nJavascript\nHTML/CSS\nSQL"
   },
   {
     "objectID": "courses/index_course.html#first-principles-sciences",
@@ -158,7 +158,7 @@
     "href": "courses/index_course.html",
     "title": "Courses (Guelph Computer Engineering)",
     "section": "",
-    "text": "Thank you for visiting my courses pages. Feel free to explore the courses that I have enrolled in throuhgout studies as a Computer Engineering Student at the University of Guelph. This page aims at providing the different courses throughout the University of Guelph Engineering Computer Engineering Program. Note that first-year is general and provides the foundational sciences along with a deep dive into the engineering profession.\nFor potential employer and recruiters interest:"
+    "text": "Thank you for visiting my courses pages. This pages aims at providing those that read it an ability to see the courses that I was enrolled in second year and above. I will not be sharing my experience in first-year, as it will be different to everyone. Additionally, second-year courses in Computer Engineering begins the process of more specialized coursework that will remain applicable for employeers, peers, and netowkring colleagues. This page will grow iteratively as my 2nd year continues to develop\nFor potential employer and recruiters interest:"
   },
   {
     "objectID": "courses/chem1040.html",
@@ -262,8 +262,8 @@
     "objectID": "internship/internship.html#city-of-calgary-supply-project-management-intern-may-2024---august-2024",
     "href": "internship/internship.html#city-of-calgary-supply-project-management-intern-may-2024---august-2024",
     "title": "Internship",
-    "section": "1. City of Calgary Supply & Project Management Intern (May 2024 - August 2024)",
-    "text": "1. City of Calgary Supply & Project Management Intern (May 2024 - August 2024)\n\nOverview and Experience\n\nProjects Management Skills\n\n\nTechnical & Programming Skills\n\n\nSoft and Technical Skill Development\n\n\nLeaderships SKills"
+    "section": "City of Calgary Supply & Project Management Intern \\ (May 2024 - August 2024)",
+    "text": "City of Calgary Supply & Project Management Intern \\ (May 2024 - August 2024)\n\nOverview and Experience\n\nProjects Management Skills\n\n\nTechnical & Programming Skills\n\n\nSoft and Technical Skill Development\n\n\nLeaderships Skills"
   },
   {
     "objectID": "projects/project.html",
@@ -387,13 +387,216 @@
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
-    "title": "test-blog",
+    "title": "Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 2, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2024\n\n\nTevin Heath\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 2, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/about.html",
     "href": "blog/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "internship/internship.html#city-of-calgary-supply-project-management-intern",
+    "href": "internship/internship.html#city-of-calgary-supply-project-management-intern",
+    "title": "Internship",
+    "section": "City of Calgary Supply & Project Management Intern",
+    "text": "City of Calgary Supply & Project Management Intern\nInternship Period\nStart Date: May 2024\nEnd Date: August 2024\n\nOverview and Experience\n\nProjects Management Skills\n\n\nTechnical & Programming Skills\n\n\nSoft and Technical Skill Development\n\n\nLeaderships Skills"
+  },
+  {
+    "objectID": "internship/internship.html#may-2024---aug-2024",
+    "href": "internship/internship.html#may-2024---aug-2024",
+    "title": "Internship",
+    "section": "(May 2024 - Aug 2024)",
+    "text": "(May 2024 - Aug 2024)\n\nOverview and Experience\n\nProjects Management Skills\n\n\nTechnical & Programming Skills\n\n\nSoft and Technical Skill Development\n\n\nLeaderships Skills"
+  },
+  {
+    "objectID": "courses/winter_2024/phys1010/phys1010.html",
+    "href": "courses/winter_2024/phys1010/phys1010.html",
+    "title": "PHYS 1010 - Electricity & Magnestism",
+    "section": "",
+    "text": "Thank you for entering this post, I will be uploading my personal thoughts, opinion and notes within this page for the course PHYS 1010 - Electricity & Magnetism."
+  },
+  {
+    "objectID": "courses/winter_2024/math1210/math1210.html",
+    "href": "courses/winter_2024/math1210/math1210.html",
+    "title": "MATH 1210 - Calculus II",
+    "section": "",
+    "text": "Thank you for entering this post, I will be uploading my personal thoughts, opinion and notes within this page for the course Math 1210 - Calculus II."
+  },
+  {
+    "objectID": "courses/winter_2024/eng1500/eng1500.html",
+    "href": "courses/winter_2024/eng1500/eng1500.html",
+    "title": "ENG 1500 - Engineering Analysis",
+    "section": "",
+    "text": "Thank you for entering this post, I will be uploading my personal thoughts, opinion and notes within this page for the course ENG 1500 - Engineering Analysis."
+  },
+  {
+    "objectID": "courses/fall_2024.html",
+    "href": "courses/fall_2024.html",
+    "title": "Fall 2024",
+    "section": "",
+    "text": "Fall 2024 Courses\n\nCourse 1: Description of course 1.\nCourse 2: Description of course 2."
+  },
+  {
+    "objectID": "courses/index.html",
+    "href": "courses/index.html",
+    "title": "Education",
+    "section": "",
+    "text": "Education\n\n\nFall 2024\n\n\nCourses\n\nCourse 1: Description of course 1.\nCourse 2: Description of course 2.\n\n\n\nActivities\n\nActivity 1: Description of activity 1.\nActivity 2: Description of activity 2.\n\n\n\n\nWinter 2025\n\n\n\nCourses\n\nCourse 1: Description of course 1.\nCourse 2: Description of course 2.\n\n\n\nActivities\n\nActivity 1: Description of activity 1.\nActivity 2: Description of activity 2."
+  },
+  {
+    "objectID": "courses/fall_2023/courses/chem1040.html",
+    "href": "courses/fall_2023/courses/chem1040.html",
+    "title": "CHEM 1040 - General Chemistry I",
+    "section": "",
+    "text": "Thank you for entering this post, I will be uploading my personal thoughts, opinion and notes within this page for the course CHEM 1040 - General Chemistry I."
+  },
+  {
+    "objectID": "courses/fall_2023/courses/eng1100.html",
+    "href": "courses/fall_2023/courses/eng1100.html",
+    "title": "Engineering 1100 - Engineering Design I",
+    "section": "",
+    "text": "Thank you for entering this post, I will be uploading the necessary course slides from my notes within this page/post from Engineering 1100 - Engineering Design I. Feel free to download and use these documents as a guide to improve and assist in your understanding of the Engineering Discipline."
+  },
+  {
+    "objectID": "courses/fall_2023/courses/math1200.html",
+    "href": "courses/fall_2023/courses/math1200.html",
+    "title": "MATH 1200 - Calculus I",
+    "section": "",
+    "text": "Thank you for entering this post, I will be uploading my personal thoughts, opinion and notes within this page for the course MATH 1200 - Calculus I."
+  },
+  {
+    "objectID": "courses/fall_2023/courses/phys1130.html",
+    "href": "courses/fall_2023/courses/phys1130.html",
+    "title": "PHYSICS 1130 - Physics with Applications",
+    "section": "",
+    "text": "Thank you for entering this post, I will be uploading my personal thoughts, opinion and notes within this page for the course PHYSICS 1130 - Physics with Applications."
+  },
+  {
+    "objectID": "courses/fall_2023/courses/eng1410.html",
+    "href": "courses/fall_2023/courses/eng1410.html",
+    "title": "Engineering 1410 - Intro to Programming for Engineers",
+    "section": "",
+    "text": "Thank you for entering this post, I will be uploading my personal thoughts, opinion and notes within this page for the course Engineering 1410 - Intro to Programming for Engineers."
+  },
+  {
+    "objectID": "courses/winter_2025.html",
+    "href": "courses/winter_2025.html",
+    "title": "Winter 2025",
+    "section": "",
+    "text": "Winter 2025 Courses\n\nCourse 1: Description of course 1.\nCourse 2: Description of course 2."
+  },
+  {
+    "objectID": "projects/automation_scrapper.html",
+    "href": "projects/automation_scrapper.html",
+    "title": "Automation Scrapper",
+    "section": "",
+    "text": "Summary and Business Case\n\nCourse 1: Description of course 1.\nCourse 2: Description of course 2."
+  },
+  {
+    "objectID": "projects/unit_currency_program.html",
+    "href": "projects/unit_currency_program.html",
+    "title": "Unit & Currency Program",
+    "section": "",
+    "text": "Summary and Business Case\n\nBusiness Case 1: Description of course 1.\nBusiness Case 2: Description of course 2."
+  },
+  {
+    "objectID": "internship/CoC_Internship/internship.html",
+    "href": "internship/CoC_Internship/internship.html",
+    "title": "Internship",
+    "section": "",
+    "text": "Thank you for visiting my Internship page. The purpose of this page aims at providing employers a review and highlight of all my internship that I have experience since starting my Computer Engineering Degree at the University of Guelph, starting from my first internship from the City of Calgary after my first-year. Each one of these interns."
+  },
+  {
+    "objectID": "internship/CoC_Internship/internship.html#city-of-calgary-supply-project-management-intern",
+    "href": "internship/CoC_Internship/internship.html#city-of-calgary-supply-project-management-intern",
+    "title": "Internship",
+    "section": "City of Calgary Supply & Project Management Intern",
+    "text": "City of Calgary Supply & Project Management Intern\nInternship Period\nStart Date: May 2024\nEnd Date: August 2024\n\nOverview and Experience\n\nProjects Management Skills\n\n\nTechnical & Programming Skills\n\n\nSoft and Technical Skill Development\n\n\nLeaderships Skills"
+  },
+  {
+    "objectID": "projects/automation_program/posts/post-with-code/index.html",
+    "href": "projects/automation_program/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects/automation_program/posts/welcome/index.html",
+    "href": "projects/automation_program/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "projects/automation_program/index.html",
+    "href": "projects/automation_program/index.html",
+    "title": "Automation Program Design Blog",
+    "section": "",
+    "text": "Creating a program often isn’t as simple as writing code. Ever since I started my journey in Computer Engineering, I learned that the practical side often is connect with the design a components. This pages aims as highlighting and documenting this design process, practical solutions, user-experience and error and problems that are faced. Finally, one of the most underrated components that I have learned in my industry and internship experience is that writing is critical in engineering, programming, teamwork, and software development. The writing does not have to be code related, but it needs to be efficient, effective and most important should be practiced daily.\nThis page aims at ensuring that I can provide different forms of documentation and writing.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2024\n\n\nTevin Heath\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 2, 2024\n\n\nTevin Heath\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/automation_program/about.html",
+    "href": "projects/automation_program/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "projects/unit_currency_program/posts/post-with-code/index.html",
+    "href": "projects/unit_currency_program/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects/unit_currency_program/posts/welcome/index.html",
+    "href": "projects/unit_currency_program/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "projects/unit_currency_program/index.html",
+    "href": "projects/unit_currency_program/index.html",
+    "title": "Unit & Currency Conversion Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2024\n\n\nTevin Heath\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 2, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/unit_currency_program/about.html",
+    "href": "projects/unit_currency_program/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "internship/CoC_Internship/CoC_Experience/posts/post-with-code/index.html",
+    "href": "internship/CoC_Internship/CoC_Experience/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "internship/CoC_Internship/CoC_Experience/posts/welcome/index.html",
+    "href": "internship/CoC_Internship/CoC_Experience/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "internship/CoC_Internship/CoC_Experience/index.html",
+    "href": "internship/CoC_Internship/CoC_Experience/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2024\n\n\nTevin Heath\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 2, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "internship/CoC_Internship/CoC_Experience/about.html",
+    "href": "internship/CoC_Internship/CoC_Experience/about.html",
     "title": "About",
     "section": "",
     "text": "About this blog"

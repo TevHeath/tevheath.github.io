@@ -1,1 +1,10 @@
 /* css styles */
+/* Ensure dropdown menus show on hover */
+.navbar .dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0; /* Adjusts the position if needed */
+}
+
+.dropdown-menu {
+  margin-top: 0; /* Adjusts the position if needed */
+}

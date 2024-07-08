@@ -1,0 +1,8 @@
+---
+title: "Automation Scrapper"
+---
+
+# Summary and Business Case
+
+- **Course 1**: Description of course 1.
+- **Course 2**: Description of course 2.

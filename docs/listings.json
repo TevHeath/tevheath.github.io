@@ -18,5 +18,26 @@
       "/blog/posts/post-with-code/index.html",
       "/blog/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/projects/automation_program/index.html",
+    "items": [
+      "/projects/automation_program/posts/post-with-code/index.html",
+      "/projects/automation_program/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/unit_currency_program/index.html",
+    "items": [
+      "/projects/unit_currency_program/posts/post-with-code/index.html",
+      "/projects/unit_currency_program/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/internship/CoC_Internship/CoC_Experience/index.html",
+    "items": [
+      "/internship/CoC_Internship/CoC_Experience/posts/post-with-code/index.html",
+      "/internship/CoC_Internship/CoC_Experience/posts/welcome/index.html"
+    ]
   }
 ]

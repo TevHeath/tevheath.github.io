@@ -2,7 +2,7 @@
 title: "Courses (Guelph Computer Engineering)"
 ---
 
-Thank you for visiting my courses pages. Feel free to explore the courses that I have enrolled in throuhgout studies as a Computer Engineering Student at the University of Guelph. This page aims at providing the different courses throughout the University of Guelph Engineering Computer Engineering Program. Note that first-year is general and provides the foundational sciences along with a deep dive into the engineering profession.
+Thank you for visiting my courses pages. This pages aims at providing those that read it an ability to see the courses that I was enrolled in second year and above. I will not be sharing my experience in first-year, as it will be different to everyone. Additionally, second-year courses in Computer Engineering begins the process of more specialized coursework that will remain applicable for employeers, peers, and netowkring colleagues. This page will grow iteratively as my 2nd year continues to develop
 
 For potential employer and recruiters interest:
 
@@ -12,7 +12,7 @@ For potential employer and recruiters interest:
 
 
 
-# FALL 2023
+# FALL 2024
 
 
 ## Engineering Design

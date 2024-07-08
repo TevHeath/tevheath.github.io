@@ -1,0 +1,8 @@
+---
+title: "Winter 2025"
+---
+
+# Winter 2025 Courses
+
+- **Course 1**: Description of course 1.
+- **Course 2**: Description of course 2.
