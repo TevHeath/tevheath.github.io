@@ -15,20 +15,20 @@ website:
       #   menu:
       #     - text: City of Calgary Internship
       #       href: internship/CoC_Internship/CoC_Experience/index.qmd
-      - text: PROJECTS
-        menu:
-          - text: Automation Webscrapper Program
-            href: projects/automation_program/index.qmd
-          - text: Unit & Currency Program
-            href: projects/unit_currency_program/index.qmd
-      - text: COURSES
-        menu:
-          - text: Fall 2024
-            href: courses/fall_2024.qmd
-          - text: Winter 2025
-            href: courses/winter_2025.qmd
-      - href: blog/index.qmd
-        text: BLOG
+      # - text: PROJECTS
+      #   menu:
+      #     - text: Automation Webscrapper Program
+      #       href: projects/automation_program/index.qmd
+      #     - text: Unit & Currency Program
+      #       href: projects/unit_currency_program/index.qmd
+      # - text: COURSES
+      #   menu:
+      #     - text: Fall 2024
+      #       href: courses/fall_2024.qmd
+      #     - text: Winter 2025
+      #       href: courses/winter_2025.qmd
+      # - href: blog/index.qmd
+      #   text: BLOG
 
   page-footer:
     border: true
@@ -36,7 +36,7 @@ website:
     center: |
       <a href="https://github.com/tevheath"><i class="bi bi-github"></i></a>
       <a href="mailto:tevinheath.beng@gmail.com"><i class="bi bi-envelope"></i></a>
-      <a href="cv/docs/TevH_CV_Eng.pdf"><i class="ai ai-cv"></i></a>
+      <a href="cv/docs/TevH_CV_BEng.pdf"><i class="ai ai-cv"></i></a>
 
 format:
   html:
