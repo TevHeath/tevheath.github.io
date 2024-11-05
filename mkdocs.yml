@@ -1,14 +1,14 @@
-site_name: My Docs
+site_name: TJ Prescod-Heath's Portfolio
 site_url: https://mydomain.org/mysite
 theme:
   name: material
   palette:
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-
+#    # Palette toggle for automatic mode
+#    - media: "(prefers-color-scheme)"
+#      toggle:
+#        icon: material/brightness-auto
+#        name: Switch to light mode
+    -
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -66,13 +66,26 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Code Docs:
+  - Projects:
+      - Projects: projects/projects.md
+  - Coding Projects:
       - Code Example: coding/codeblock.md
-  - About:
-      - About Me: about/about.md
-      - Childhood: about/childhood.md
+      - Code Tabs: coding/code-tabs.md
+#  - Tutorials:
+#
+#  - About:
+#      - Current Projects: about/projects.md
+#      - About Me: about/about.md
+#      - Childhood: about/childhood.md
   - Tags: tags.md
   - Blog:
       - blog/index.md
+copyright: Copyright &copy; 2024 Tevin Heath
+extra:
+  social:
+    - icon: simple/linkedin
+      link: https://www.linkedin.com/in/t-j-prescod-heath-bb9697284/
+    - icon: simple/github
+      link: https://github.com/TevHeath
 
 
