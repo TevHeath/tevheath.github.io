@@ -1,6 +1,12 @@
 # Welcome
 
-Hello world, I am a **Computer Engineering** student at the University of Guelph. My professional interests focus on the software and hardware design as it relates to application of the electromagnestic spectrum using electrical engineering techniques. I am a driven and passion student focused on to designing meaningful projects. I enjoy collaborating with classmates and building relationships with industry leaders on designing electrical & computer engineering hardware & emerging technologies such as Printed Circuit Board (PCBs) and software development design through the balance of low-level programming, software engineering principles, and efficient engineering methodologies. 
+Hello world, My name is TJ and I am a **Computer Engineering** student at the University of Guelph. I enrolled in University og Guelph to learn from industry leaders of engineering and utilize the engineering curriculum and teaching styles consisting of Engineering design projects each year.
+
+My software design vision focus on designing software solutions geared toward empowering the parent-child relationship through assisting software application that allow both the parent and child to learn together.
+
+My research interests as an undergraduate student focuses on both software application and the engineering hardware design application of the electromagnetic spectrum using electrical engineering techniques. I am a driven and passion student focused on to designing meaningful projects. 
+
+Currently, I am involved in two student clubs where I focus on building technologies that assist in the clubs mission and competition requirement. For example, for the Gryphon Aerospace, I am assist in designing a Printed Circuit Board using Cadence OrCAD and Altium Designer. And for the University of Guelph's Creative Collaborative Collective, I am assisting with other software developers on designing our first dynamic website using React and Node.Js and a bookshelf database using MongoDB.
 
 
 I always believe in the products that I find myself collaborating with the start of engineering idea to the final completion and manufacturing. I enjoy team-build and continuing to ensure that throughout the design process that projects and products remain practical, purposeful, and safe for clients, consumers, and customers can utilize effortless. Finally with my knowledge is continuing to grow, my passion and growing interest lies in designing projects for educational and commercial use within the field of energy systems, communications frameworks, and computer hardware networks related to renewable/alternative sources of energy. 
