@@ -2,8 +2,8 @@ site_name: TJ Prescod-Heath's Portfolio
 site_url: https://mydomain.org/mysite
 theme:
   name: material
-  icon:
-    logo: fontawesome/solid/T
+#  icon:
+#    logo: fontawesome/solid/O
   palette:
 #    # Palette toggle for automatic mode
 #    - media: "(prefers-color-scheme)"
