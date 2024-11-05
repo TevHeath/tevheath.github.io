@@ -6,7 +6,6 @@ In this section, the following will highlight the wide range of application that
 ## Hardware Projects
 
 
-
 ## Software Projects
 
 
