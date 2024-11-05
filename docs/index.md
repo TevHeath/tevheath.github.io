@@ -7,10 +7,15 @@ I always believe in the products that I find myself collaborating with the start
 
 <!-- Prior to attending the University of Guelph, I completed my Honours Bachelor of Science (B.Sc) degree from McMaster University in **Mathematics and Statistics**. During my tenure in McMaster University's Mathematics & Statistics Program, key courses and studies remained as a focus in my studies. These courses were Data Science, Data Visualization, Machine Learning, and Computational Statistics using R, and Mathematical Modelling using C and Python. Finally, many of my extracurricular activities were aimed in mentoring first year international science, mathematics, and business students. -->
 
-At the University of Guelph, I strive to become a project leader and communicator in many engineering projects, while leveraging my professional network and internship experience.
+At the University of Guelph, I strive to become a project leader and an established researcher in engineering and engineering design projects, while leveraging my professional network and internship experience.
+
+Feel free to send me a message on [Linkedin](https://www.linkedin.com/in/t-j-prescod-heath-bb9697284/)  I am always open to chat and connect, simply send me a note and we can easily have a virtual coffee adn discuss our common interest.
+
+[Download my Resume](assets/Tevin_Resume_Aero.pdf)
 
 
-[//]: # (Feel free to send me an **email**. I am always open to chat, mentor, and share ideas about the many challenges the future has within the field of renewable energy tools using embedded system engineering techniques.)
+
+
 
 [//]: # (**Download my resume** &#40;[here]&#40;"C:\Users\tevin\PycharmProjects\AwesomeWebsite\docs\assets\Tevin_Resume_Aero.pdf"&#41;&#41;)
 
