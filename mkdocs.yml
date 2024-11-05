@@ -66,12 +66,22 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Education & Internships:
+      - Education: education/education.md
+      - Internship: education/internships.md
+#  - Internships:
   - Projects:
       - Projects: projects/projects.md
   - Coding Projects:
-      - Code Example: coding/codeblock.md
-      - Code Tabs: coding/code-tabs.md
-#  - Tutorials:
+      - Code Tutorials: coding/codeblock.md
+      - Computational Tutorials: coding/code-tabs.md
+  - Tutorials:
+      - Computational Differential Equation: tutorials/Computational-Differential-Equations.md
+      - Computational Physics: tutorials/Computational-Physics.md
+      - Visible Light Communication: tutorials/Visible-Light-Communication.md
+#      - Introduction to C++ - Later move to the Coding tutorials
+#      - Introduction to MATLAB
+#      - Introduction to Python (Numerical Methods)
 #
 #  - About:
 #      - Current Projects: about/projects.md
@@ -81,11 +91,14 @@ nav:
   - Blog:
       - blog/index.md
 copyright: Copyright &copy; 2024 Tevin Heath
+
 extra:
   social:
     - icon: simple/linkedin
       link: https://www.linkedin.com/in/t-j-prescod-heath-bb9697284/
     - icon: simple/github
       link: https://github.com/TevHeath
+  generator: false
+
 
 
