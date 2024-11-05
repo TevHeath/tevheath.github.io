@@ -1,6 +1,6 @@
 # Welcome
 
-Hello world, My name is TJ and I am a **Computer Engineering** student at the University of Guelph. I enrolled in University of Guelph to learn from industry leaders of engineering and utilize the engineering curriculum and teaching styles consisting of Engineering design projects each year.
+Hello world, My name is TJ and I am a **Computer Engineering** and a **Minor in Physics** student at the University of Guelph. I enrolled in University of Guelph to learn from industry leaders of engineering and utilize the engineering curriculum and teaching styles consisting of Engineering design projects each year.
 
 My **software development mission** focuses on designing software solutions (e.g., Web & Mobile Application) geared toward empowering the parent-child relationship through assisting software application that allow both the parent and child to learn together.
 
