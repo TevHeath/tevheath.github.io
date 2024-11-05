@@ -1,5 +1,30 @@
 # Internship Experience
 
+Throughout my experience and employment as a project-orientated leader and strategist I have been able to develop professional skills focused on evidence based decision-making, transparent strategic leadership & evaluation, and valuable data-driven visualization methods within the public sector. As a business professional my technical skills and experience has allowed me to achieve best practices results through outcome-based strategies development and execution. My recent experience has allowed me to develop and hone my many skills in business analytics, statistical modelling and strategy with client engagement and deliverables, and I approach every challenge with a data-driven mindset while maintaining and building client relationships towards meaningful reports, actionable items, and solution-oriented results.
+
+
+- **Software Engineer & Flight System Developer**, Gryphon Aerospace Club (September 2024 to Present)
+
+    _Software & Programming Languages:_
+  
+        - Altium Designer:
+        - Cadence OrCAD:
+            - PSpice
+            - Capture CIS
+
+- **Software Developer**, Collaborative Creative Collective (CoCreCo) (September 2024 to Present)
+
+    _Software & Programming Languages:_
+  
+        - MongoDB:
+        - MySQL:
+        - Python:
+        - React:
+        - React Native:
+        - Node.js:
+
+
+
 - **Software Engineer & Project Management Intern**, City of Calgary (May 2024 to August 2024)
 
     _Software & Programming Languages:_
@@ -35,7 +60,7 @@
 
 
 
-- **Data and Decision Support Intern**, Cambridge Memorial Hospital (June 2022 to Sept 2022)
+- **Data and Decision Support Intern**, Cambridge Memorial Hospital (June 2022 to Dec 2022)
 
     _Software & Programming Languages:_
   

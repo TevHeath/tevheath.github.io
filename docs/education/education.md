@@ -9,7 +9,7 @@ Hello world, I'm Tevin - a second-year (i.e., Sophomore) **Bachelor of Engineeri
 
 ### Bachelor of Engineering in Computer Engineering
 
-**The University of Guelph (Sep. 2023 - Present)**
+**The University of Guelph (Sept. 2023 - Present)**
 
 **Interests**:
 
@@ -20,6 +20,21 @@ Hello world, I'm Tevin - a second-year (i.e., Sophomore) **Bachelor of Engineeri
         - Computational Physics & Simulations
         - Engineering Design
         - Software & Data Engineering
+
+
+### Bachelor of Science (Honours) in Mathematics and Statistics
+
+**McMaster University (Sept. 2016 - Aug. 2020)**
+
+**Interests**:
+
+        - Statistical Research Design
+        - Acturial Sciences
+        - Data Science & Machine Learning
+        - Advanced Statistical & Mathematical Modelling
+        - Computational Mathematics
+        - Public Service Leadership & Governance 
+        - Health and Community Leadership
 
 
 [//]: # (<!-- #### **Bachelor of Science &#40;Honours&#41; in Mathematics & Statistics** -->)
