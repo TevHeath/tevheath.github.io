@@ -9,10 +9,10 @@ I always believe in the products that I find myself collaborating with the start
 
 At the University of Guelph, I strive to become a project leader and an established researcher in engineering and engineering design projects, while leveraging my professional network and internship experience.
 
-Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/t-j-prescod-heath-bb9697284/)  I am always open to chat and connect, simply send me a note and we can easily have a virtual coffee adn discuss our common interest.
+Feel free to send me a message on [**LinkedIn**](https://www.linkedin.com/in/t-j-prescod-heath-bb9697284/)  I am always open to chat and connect, simply send me a note, and we can easily have a virtual coffee and discuss our common interest. I always enjoy sharing my experience and providing meaningful solutions!
 
 
-[Download my Resume](assets/Tevin_Resume_Aero.pdf)
+[**Download my 1-Page Resume**](assets/Tevin_Resume_Aero.pdf)
 
 
 
