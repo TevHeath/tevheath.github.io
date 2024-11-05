@@ -1,10 +1,10 @@
 # Welcome
 
-Hello world, My name is TJ and I am a **Computer Engineering** student at the University of Guelph. I enrolled in University og Guelph to learn from industry leaders of engineering and utilize the engineering curriculum and teaching styles consisting of Engineering design projects each year.
+Hello world, My name is TJ and I am a **Computer Engineering** student at the University of Guelph. I enrolled in University of Guelph to learn from industry leaders of engineering and utilize the engineering curriculum and teaching styles consisting of Engineering design projects each year.
 
-My software design vision focus on designing software solutions geared toward empowering the parent-child relationship through assisting software application that allow both the parent and child to learn together.
+My **Software Development Mission** focuses on designing software solutions (e.g., Web & Mobile Application) geared toward empowering the parent-child relationship through assisting software application that allow both the parent and child to learn together.
 
-My research interests as an undergraduate student focuses on both software application and the engineering hardware design application of the electromagnetic spectrum using electrical engineering techniques. I am a driven and passion student focused on to designing meaningful projects. 
+My **research interests** as an undergraduate student focuses on both software application and the engineering hardware design application of the electromagnetic spectrum using electrical engineering techniques. I am a driven and passion student focused on to designing meaningful projects. 
 
 Currently, I am involved in two student clubs where I focus on building technologies that assist in the clubs mission and competition requirement. For example, for the Gryphon Aerospace, I am assist in designing a Printed Circuit Board using Cadence OrCAD and Altium Designer. And for the University of Guelph's Creative Collaborative Collective, I am assisting with other software developers on designing our first dynamic website using React and Node.Js and a bookshelf database using MongoDB.
 
