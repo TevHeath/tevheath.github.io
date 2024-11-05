@@ -9,7 +9,7 @@ Hello world, I'm Tevin - a second-year (i.e., Sophomore) **Bachelor of Engineeri
 
 ### Bachelor of Engineering in Computer Engineering
 
-**The University of Guelph (Sep. 2023 - PRESENT)**
+**The University of Guelph (Sep. 2023 - Present)**
 
 **Interests**:
 
