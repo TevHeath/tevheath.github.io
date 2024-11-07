@@ -15,7 +15,7 @@ I always believe that a great engineering design requires **collaboration**, **p
 
 At the University of Guelph, I am striving to become a professional engineer (P.Eng) in Ontario and Alberta and an established Canadian engineering researcher in electrical and computer engineering, while leveraging my professional network and internship experience.
 
-Feel free to send me a message on [**LinkedIn**](https://www.linkedin.com/in/t-j-prescod-heath-bb9697284/)  I am always open to chat and connect, simply send me a note, and we can easily have a virtual coffee and discuss our common interest. I always enjoy sharing my experience and providing meaningful solutions!
+Feel free to send me a message on [**LinkedIn**](https://www.linkedin.com/in/t-j-prescod-heath/)  I am always open to chat and connect, simply send me a note, and we can easily have a virtual coffee and discuss our common interest. I always enjoy sharing my experience and providing meaningful solutions!
 
 
 [**Download my 1-Page Resume**](assets/Tevin_Resume_UGMC.pdf)
