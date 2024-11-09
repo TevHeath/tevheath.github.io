@@ -35,7 +35,7 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.path
-#    - navigation.indexes
+    - navigation.indexes
     - navigation.integrate
 #    - toc.integrate
     - toc.follow
@@ -76,17 +76,16 @@ nav:
     - Internship: education/internships.md
   - Coding Tutorials:
     - Getting Started:
-      - Installation C++: coding-tutorial/getting-started/installation/installation-cpp.md
-      - Installation C: coding-tutorial/getting-started/installation/installation-c.md
-      - Installation Python: coding-tutorial/getting-started/installation/installation-python.md
-      - Installation MATLAB: coding-tutorial/getting-started/installation/installation-matlab.md
+        - Installation C++: coding-tutorial/getting-started/installation/installation-cpp.md
+        - Installation C: coding-tutorial/getting-started/installation/installation-c.md
+        - Installation Python: coding-tutorial/getting-started/installation/installation-python.md
+        - Installation MATLAB: coding-tutorial/getting-started/installation/installation-matlab.md
     - Choosing the Right IDE:
-        - Getting Started:
-          - VSCode: coding-tutorial/right-ide/ide-vscode.md
-          - Pycharm: coding-tutorial/right-ide/ide-pycharm.md
-          - Notepad++: coding-tutorial/right-ide/ide-notepad.md
-          - Jupyter Notebook: coding-tutorial/right-ide/ide-jupyter-notebook.md
-          - Anaconda & Spyder: coding-tutorial/right-ide/ide-spyder.md
+        - VSCode: coding-tutorial/right-ide/IDE/ide-vscode.md
+        - Pycharm: coding-tutorial/right-ide/IDE/ide-pycharm.md
+        - Notepad++: coding-tutorial/right-ide/IDE/ide-notepad.md
+        - Jupyter Notebook: coding-tutorial/right-ide/IDE/ide-jupyter-notebook.md
+        - Anaconda & Spyder: coding-tutorial/right-ide/IDE/ide-spyder.md
 #    - Programming Languages: #Note that this is hidden until it is ready
 #      - Introduction to C++:
 #        - Subsection Item 1: coding-tutorial/getting-started/subsection1.md
