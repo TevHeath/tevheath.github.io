@@ -71,7 +71,7 @@ markdown_extensions:
 #  - pymdownx.arithmatex:
 #      generic: true
 #
-#extra_javascript:
+# extra_javascript:
 #  - javascripts/extra.js
 #  - https://polyfill.io/v3/polyfill.min.js?features=es6
 #  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
@@ -88,11 +88,13 @@ nav:
         - Installation Python: coding-tutorial/getting-started/installation/installation-python.md
         - Installation MATLAB: coding-tutorial/getting-started/installation/installation-matlab.md
     - Choosing the Right IDE:
-        - VSCode: coding-tutorial/right-ide/IDE/ide-vscode.md
-        - Pycharm: coding-tutorial/right-ide/IDE/ide-pycharm.md
-        - Notepad++: coding-tutorial/right-ide/IDE/ide-notepad.md
-        - Jupyter Notebook: coding-tutorial/right-ide/IDE/ide-jupyter-notebook.md
-        - Anaconda & Spyder: coding-tutorial/right-ide/IDE/ide-spyder.md
+        - Choose your Preference:
+          - Personal Favourite IDE: coding-tutorial/right-ide/IDE/ide-my-choice.md
+          - VSCode: coding-tutorial/right-ide/IDE/ide-vscode.md
+          - Pycharm: coding-tutorial/right-ide/IDE/ide-pycharm.md
+          - Notepad++: coding-tutorial/right-ide/IDE/ide-notepad.md
+          - Jupyter Notebook: coding-tutorial/right-ide/IDE/ide-jupyter-notebook.md
+          - Anaconda & Spyder: coding-tutorial/right-ide/IDE/ide-spyder.md
 #    - Programming Languages: #Note that this is hidden until it is ready
 #      - Introduction to C++:
 #        - Subsection Item 1: coding-tutorial/getting-started/subsection1.md
