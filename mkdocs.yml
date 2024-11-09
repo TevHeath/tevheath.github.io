@@ -72,26 +72,43 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Education & Internships:
-      - Education: education/education.md
-      - Internship: education/internships.md
+    - Education: education/education.md
+    - Internship: education/internships.md
   - Coding Tutorials:
     - Getting Started:
-      - Introduction to C++: coding/Intro-to-CPP.md
-      - Introduction to Python: coding/Intro-to-Python.md
-      - Introduction to MATLAB: coding/Intro-to-MATLAB.md
-      - New Subsection:
-        - Subsection Item 1: coding/getting-started/subsection1.md
-        - Subsection Item 2: coding/getting-started/subsection2.md
-    - Other Tutorials:
-      - Advanced Python: coding/Advanced-Python.md
+      - Installation C++: coding-tutorial/getting-started/installation/installation-cpp.md
+      - Installation C: coding-tutorial/getting-started/installation/installation-c.md
+      - Installation Python: coding-tutorial/getting-started/installation/installation-python.md
+      - Installation MATLAB: coding-tutorial/getting-started/installation/installation-matlab.md
+    - Choosing the Right IDE:
+        - Getting Started:
+          - VSCode: coding-tutorial/right-ide/ide-vscode.md
+          - Pycharm: coding-tutorial/right-ide/ide-pycharm.md
+          - Notepad++: coding-tutorial/right-ide/ide-notepad.md
+          - Jupyter Notebook: coding-tutorial/right-ide/ide-jupyter-notebook.md
+          - Anaconda & Spyder: coding-tutorial/right-ide/ide-spyder.md
+#    - Programming Languages: #Note that this is hidden until it is ready
+#      - Introduction to C++:
+#        - Subsection Item 1: coding-tutorial/getting-started/subsection1.md
+#        - Subsection Item 2: coding-tutorial/getting-started/subsection2.md
+#      - Introduction to Python:
+#        - Subsection Item 1: coding-tutorial/getting-started/subsection1.md
+#        - Subsection Item 2: coding-tutorial/getting-started/subsection2.md
+#      - Introduction to MATLAB:
+#        - Subsection Item 1: coding-tutorial/getting-started/subsection1.md
+#        - Subsection Item 2: coding-tutorial/getting-started/subsection2.md
+#      - Introduction to Java:
+#        - Subsection Item 1: coding-tutorial/getting-started/subsection1.md
+#        - Subsection Item 2: coding-tutorial/getting-started/subsection2.
+#    - Other Tutorials:
+#      - Advanced Python: coding-tutorial/Advanced-Python.md
 
-#      - Introduction to Java: coding/Intro-to-Java.md
 #  - Internships:
 #  - Projects:
 #      - Projects: projects/projects.md
 #  - Coding Projects:
-#      - Code Tutorials: coding/codeblock.md
-#      - Computational Tutorials: coding/code-tabs.md
+#      - Code Tutorials: coding-tutorial/codeblock.md
+#      - Computational Tutorials: coding-tutorial/code-tabs.md
   - Numerical Methods:
       - Differential Equations (C/C++): tutorials/Computational-Differential-Equations.md
       - Numerical Methods (C/C++): tutorials/Numerical-Method-CPP.md
