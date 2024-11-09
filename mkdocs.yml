@@ -35,7 +35,7 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.path
-    - navigation.indexes
+#    - navigation.indexes
     - navigation.integrate
 #    - toc.integrate
     - toc.follow
@@ -75,9 +75,16 @@ nav:
       - Education: education/education.md
       - Internship: education/internships.md
   - Coding Tutorials:
+    - Getting Started:
       - Introduction to C++: coding/Intro-to-CPP.md
       - Introduction to Python: coding/Intro-to-Python.md
       - Introduction to MATLAB: coding/Intro-to-MATLAB.md
+      - New Subsection:
+        - Subsection Item 1: coding/getting-started/subsection1.md
+        - Subsection Item 2: coding/getting-started/subsection2.md
+    - Other Tutorials:
+      - Advanced Python: coding/Advanced-Python.md
+
 #      - Introduction to Java: coding/Intro-to-Java.md
 #  - Internships:
 #  - Projects:
