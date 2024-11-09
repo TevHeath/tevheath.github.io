@@ -34,6 +34,9 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.path
+    - navigation.indexes
+    - navigation.integrate
 #    - toc.integrate
     - toc.follow
     - navigation.top
@@ -71,20 +74,28 @@ nav:
   - Education & Internships:
       - Education: education/education.md
       - Internship: education/internships.md
+  - Coding Tutorials:
+      - Introduction to C++: coding/Intro-to-CPP.md
+      - Introduction to Python: coding/Intro-to-Python.md
+      - Introduction to MATLAB: coding/Intro-to-MATLAB.md
+#      - Introduction to Java: coding/Intro-to-Java.md
 #  - Internships:
 #  - Projects:
 #      - Projects: projects/projects.md
 #  - Coding Projects:
 #      - Code Tutorials: coding/codeblock.md
 #      - Computational Tutorials: coding/code-tabs.md
-#  - Tutorials:
-#      - Computational Differential Equation: tutorials/Computational-Differential-Equations.md
-#      - Computational Physics: tutorials/Computational-Physics.md
+  - Numerical Methods:
+      - Differential Equations (C/C++): tutorials/Computational-Differential-Equations.md
+      - Numerical Methods (C/C++): tutorials/Numerical-Method-CPP.md
+#      - Applied Quantitative Algorithms: tutorials/
+#      - Computational Physics: tutorials/Numerical-Method-CPP.md
 #      - Visible Light Communication: tutorials/Visible-Light-Communication.md
 #      - Introduction to C++ - Later move to the Coding tutorials
 #      - Introduction to MATLAB
 #      - Introduction to Python (Numerical Methods)
-#
+  - Research:
+      - Visible Light Communication: research/Visible-Light-Communication.md
 #  - About:
 #      - Current Projects: about/projects.md
 #      - About Me: about/about.md
