@@ -113,8 +113,6 @@ nav:
 #      - Advanced Python: coding-tutorial/Advanced-Python.md
 
 #  - Internships:
-#  - Projects:
-#      - Projects: projects/projects.md
 #  - Coding Projects:
 #      - Code Tutorials: coding-tutorial/codeblock.md
 #      - Computational Tutorials: coding-tutorial/code-tabs.md
@@ -129,10 +127,15 @@ nav:
 #      - Introduction to Python (Numerical Methods)
   - Research:
       - Visible Light Communication: research/Visible-Light-Communication.md
-#  - About:
-#      - Current Projects: about/projects.md
-#      - About Me: about/about.md
-#      - Childhood: about/childhood.md
+  - Projects:
+
+      - Electrical CAD: projects/AI-Machine-Learning/
+      - PCB Design: projects/PCB-Design/
+      - AI & Machine Learning: projects/AI-Machine-Learning/
+      - Statistical Analysis: projects/Statistical-Analysis/
+      - Automation: projects/Automation/
+#     - Scientific Computation:
+#          -
 #  - Tags: tags.md
 #  - Blog:
 #      - blog/index.md
