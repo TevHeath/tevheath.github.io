@@ -82,6 +82,12 @@ nav:
   - Education & Internships:
     - Education: education/education.md
     - Internship: education/internships.md
+  - Projects:
+      - Electrical CAD: projects/Electrical-CAD/Introduction-electrical-cad.md
+      - PCB Design: projects/PCB-Design/Introduction-PCB-Design.md
+      - AI & Machine Learning: projects/AI-Machine-Learning/Introduction-AL-ML.md
+      - Statistical Analysis: projects/Statistical-Analysis/Introduction-Stats.md
+      - Automation: projects/Automation/Introduction-automation.md
   - Coding Tutorials:
     - Getting Started:
         - Installation C++: coding-tutorial/getting-started/installation/installation-cpp.md
@@ -127,15 +133,7 @@ nav:
 #      - Introduction to Python (Numerical Methods)
   - Research:
       - Visible Light Communication: research/Visible-Light-Communication.md
-  - Projects:
 
-      - Electrical CAD: projects/AI-Machine-Learning/
-      - PCB Design: projects/PCB-Design/
-      - AI & Machine Learning: projects/AI-Machine-Learning/
-      - Statistical Analysis: projects/Statistical-Analysis/
-      - Automation: projects/Automation/
-#     - Scientific Computation:
-#          -
 #  - Tags: tags.md
 #  - Blog:
 #      - blog/index.md
