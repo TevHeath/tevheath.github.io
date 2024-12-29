@@ -82,6 +82,16 @@ nav:
   - Education & Internships:
     - Education: education/education.md
     - Internship: education/internships.md
+#  - Project Management Tools:
+#      - Project Management:
+#        - Microsoft Project:
+#        - Microsoft Teams:
+#        - Discord:
+#        - Slack:
+#      - Budgeting:
+#        - Microsoft Excel:
+#      - Strategic-Planning:
+#        - Microsoft Visio:
   - Projects:
       - Electrical CAD: projects/Electrical-CAD/Introduction-electrical-cad.md
       - PCB Design: projects/PCB-Design/Introduction-PCB-Design.md
