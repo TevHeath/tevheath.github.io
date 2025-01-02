@@ -93,6 +93,9 @@ nav:
         - Microsoft Excel: pm_tools/Budgeting/microsoft-excel.md
       - Strategic Planning:
         - Microsoft Visio: pm_tools/Strategic-Planning/microsoft-visio.md
+      - Documentation:
+        - Notion: pm_tools/Documentation/notion.md
+        - Overleaf: pm_tools/Documentation/overleaf.md
   - Projects:
       - Electrical CAD: projects/Electrical-CAD/Introduction-electrical-cad.md
       - PCB Design: projects/PCB-Design/Introduction-PCB-Design.md
