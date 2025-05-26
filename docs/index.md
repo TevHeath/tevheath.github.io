@@ -1,10 +1,10 @@
 # Welcome
-Hello! I’m TJ, a Computer Engineering student with a Minor in Physics at the University of Guelph. I chose the University of Guelph for its hands-on engineering curriculum, where each year includes industry-relevant design projects that build essential skills and connections.
+Hello! I’m TJ, a Engineering student . I chose the University of Guelph for its hands-on engineering curriculum, where each year includes industry-relevant design projects that build essential skills and connections.
 
 On November 4th, I embarked on a major update to my website to create a portfolio that documents my journey as a Computer Engineering student. While some sections are still under construction, the site is a living document where you can explore the continuous development of my skills and projects. Each update captures my growth as an engineer and is designed to provide a clear and dynamic view of my work.
 
 # Interests
-My **technology interests** center on hardware design and power management for data centers, especially regarding efficient, sustainable support for AI applications. I believe that well-designed data center infrastructure is essential for advancing modern technology.
+My **technology interests** centers around designing communication systems and power management for data centers, especially regarding efficient, sustainable support for AI applications. I believe that well-designed data center infrastructure is essential for advancing modern technology.
 
 My **research interests** as an undergraduate span both software applications and the hardware aspects of the electromagnetic spectrum using electrical engineering techniques. I am passionate about creating impactful projects that merge technical depth with innovative thinking.
 

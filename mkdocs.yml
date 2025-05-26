@@ -82,40 +82,40 @@ nav:
   - Education & Internships:
     - Education: education/education.md
     - Internship: education/internships.md
-  - Project Management Tools:
-      - Software:
-        - Microsoft Project: pm_tools/Project-Management/microsoft-project.md
-      - Communication:
-        - Microsoft Teams: pm_tools/Communication/microsoft-teams.md
-        - Discord: pm_tools/Communication/discord.md
-        - Slack: pm_tools/Communication/slack.md
-      - Budgeting:
-        - Microsoft Excel: pm_tools/Budgeting/microsoft-excel.md
-      - Strategic Planning:
-        - Microsoft Visio: pm_tools/Strategic-Planning/microsoft-visio.md
-      - Documentation:
-        - Notion: pm_tools/Documentation/notion.md
-        - Overleaf: pm_tools/Documentation/overleaf.md
-  - Projects:
-      - Electrical CAD: projects/Electrical-CAD/Introduction-electrical-cad.md
-      - PCB Design: projects/PCB-Design/Introduction-PCB-Design.md
-      - AI & Machine Learning: projects/AI-Machine-Learning/Introduction-AL-ML.md
-      - Statistical Analysis: projects/Statistical-Analysis/Introduction-Stats.md
-      - Automation: projects/Automation/Introduction-automation.md
-  - Coding Tutorials:
-    - Getting Started:
-        - Installation C++: coding-tutorial/getting-started/installation/installation-cpp.md
-        - Installation C: coding-tutorial/getting-started/installation/installation-c.md
-        - Installation Python: coding-tutorial/getting-started/installation/installation-python.md
-        - Installation MATLAB: coding-tutorial/getting-started/installation/installation-matlab.md
-    - Choosing the Right IDE:
-        - Choose your Preference:
-          - Personal Favourite IDE: coding-tutorial/right-ide/IDE/ide-my-choice.md
-          - VSCode: coding-tutorial/right-ide/IDE/ide-vscode.md
-          - Pycharm: coding-tutorial/right-ide/IDE/ide-pycharm.md
-          - Notepad++: coding-tutorial/right-ide/IDE/ide-notepad.md
-          - Jupyter Notebook: coding-tutorial/right-ide/IDE/ide-jupyter-notebook.md
-          - Anaconda & Spyder: coding-tutorial/right-ide/IDE/ide-spyder.md
+#  - Project Management Tools:
+#      - Software:
+#        - Microsoft Project: pm_tools/Project-Management/microsoft-project.md
+#      - Communication:
+#        - Microsoft Teams: pm_tools/Communication/microsoft-teams.md
+#        - Discord: pm_tools/Communication/discord.md
+#        - Slack: pm_tools/Communication/slack.md
+#      - Budgeting:
+#        - Microsoft Excel: pm_tools/Budgeting/microsoft-excel.md
+#      - Strategic Planning:
+#        - Microsoft Visio: pm_tools/Strategic-Planning/microsoft-visio.md
+#      - Documentation:
+#        - Notion: pm_tools/Documentation/notion.md
+#        - Overleaf: pm_tools/Documentation/overleaf.md
+#  - Projects:
+#      - Electrical CAD: projects/Electrical-CAD/Introduction-electrical-cad.md
+#      - PCB Design: projects/PCB-Design/Introduction-PCB-Design.md
+#      - AI & Machine Learning: projects/AI-Machine-Learning/Introduction-AL-ML.md
+#      - Statistical Analysis: projects/Statistical-Analysis/Introduction-Stats.md
+#      - Automation: projects/Automation/Introduction-automation.md
+#  - Coding Tutorials:
+#    - Getting Started:
+#        - Installation C++: coding-tutorial/getting-started/installation/installation-cpp.md
+#        - Installation C: coding-tutorial/getting-started/installation/installation-c.md
+#        - Installation Python: coding-tutorial/getting-started/installation/installation-python.md
+#        - Installation MATLAB: coding-tutorial/getting-started/installation/installation-matlab.md
+#    - Choosing the Right IDE:
+#        - Choose your Preference:
+#          - Personal Favourite IDE: coding-tutorial/right-ide/IDE/ide-my-choice.md
+#          - VSCode: coding-tutorial/right-ide/IDE/ide-vscode.md
+#          - Pycharm: coding-tutorial/right-ide/IDE/ide-pycharm.md
+#          - Notepad++: coding-tutorial/right-ide/IDE/ide-notepad.md
+#          - Jupyter Notebook: coding-tutorial/right-ide/IDE/ide-jupyter-notebook.md
+#          - Anaconda & Spyder: coding-tutorial/right-ide/IDE/ide-spyder.md
 #    - Programming Languages: #Note that this is hidden until it is ready
 #      - Introduction to C++:
 #        - Subsection Item 1: coding-tutorial/getting-started/subsection1.md
@@ -136,22 +136,22 @@ nav:
 #  - Coding Projects:
 #      - Code Tutorials: coding-tutorial/codeblock.md
 #      - Computational Tutorials: coding-tutorial/code-tabs.md
-  - Numerical Methods:
-      - Differential Equations (C/C++): tutorials/Computational-Differential-Equations.md
-      - Numerical Methods (C/C++): tutorials/Numerical-Method-CPP.md
+#  - Numerical Methods:
+#      - Differential Equations (C/C++): tutorials/Computational-Differential-Equations.md
+#      - Numerical Methods (C/C++): tutorials/Numerical-Method-CPP.md
 #      - Applied Quantitative Algorithms: tutorials/
 #      - Computational Physics: tutorials/Numerical-Method-CPP.md
 #      - Visible Light Communication: tutorials/Visible-Light-Communication.md
 #      - Introduction to C++ - Later move to the Coding tutorials
 #      - Introduction to MATLAB
 #      - Introduction to Python (Numerical Methods)
-  - Research:
-      - Visible Light Communication: research/Visible-Light-Communication.md
+#  - Research:
+#      - Visible Light Communication: research/Visible-Light-Communication.md
 
 #  - Tags: tags.md
 #  - Blog:
 #      - blog/index.md
-copyright: Copyright &copy; 2024 Tevin Heath
+copyright: Copyright &copy; 2025 Tevin Heath
 
 extra:
   social:
